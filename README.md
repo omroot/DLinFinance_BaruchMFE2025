@@ -3,7 +3,7 @@
 This repository hosts the lecture material, notebooks, and homework for the Baruch College MFE elective **Deep Learning in Finance (2025)**. Content will expand as the semester progresses; start by reviewing the week-by-week resources below.
 
 ## Course Syllabus
-- Download the full syllabus (Fall 2025) from [`../Syllabus/DeepLearningInFinance_Syllabus_BaruchMFE_Fall2025.pdf`](../Syllabus/DeepLearningInFinance_Syllabus_BaruchMFE_Fall2025.pdf).
+- Download the full syllabus (Fall 2025) from [`Syllabus/DeepLearningInFinance_Syllabus_BaruchMFE_Fall2025.pdf`](Syllabus/DeepLearningInFinance_Syllabus_BaruchMFE_Fall2025.pdf).
 
 ## Week 1
 - Slides: download the lecture decks from [`lecture_slides/week1/`](lecture_slides/week1/).
