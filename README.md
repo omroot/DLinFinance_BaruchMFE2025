@@ -39,4 +39,15 @@ This repository hosts the lecture material, notebooks, and homework for the Baru
 2. (Optional) Create and activate a virtual environment.
 3. Install Python dependencies as needed for individual notebooks (environment files will be provided alongside future labs).
 
+## Use of AI in Course Material Preparation
+
+AI tools were used to assist in the preparation of this course material, primarily for code refactoring and polishing the presentation of assignments and illustration notebooks. The instructor wrote the original code and concepts, and AI was employed to improve code quality, consistency, and presentation.
+
+**The following remain the sole responsibility of the instructor:**
+- Selection and sequencing of topics
+- Conceptual content and pedagogical approach
+- Lecture structure and ordering
+- Preparation of all lecture slides
+- Academic integrity and accuracy of course material
+
 Lecturer: **Oualid Missaoui** — reach out at `oualid.missaoui@baruch.cuny.edu` or during office hours.
