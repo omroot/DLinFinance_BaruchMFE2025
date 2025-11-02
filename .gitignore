@@ -123,3 +123,10 @@ checkpoints/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# Homework Solutions (keep private)
+**/solution/
+**/solutions/
+**/*solution*.ipynb
+**/*_solution_*.ipynb
+homeworks/week*/hw*_assignment_solution*.ipynb
