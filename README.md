@@ -11,8 +11,15 @@ This repository hosts the lecture material, notebooks, and homework for the Baru
   - [Approximation.ipynb](src/notebooks/theory/approximation.ipynb)
   - [Double Descent.ipynb](src/notebooks/theory/double_descent.ipynb)
   - [Spectral Analysis.ipynb](src/notebooks/theory/spectral_analysis.ipynb)
-  - [Scaling Laws.ipynb](src/notebooks/theory/scaling_laws.ipynb)  
+  - [Scaling Laws.ipynb](src/notebooks/theory/scaling_laws.ipynb)
 - Homework: begin with [`homeworks/week1/assignment/hw01.md`](homeworks/week1/assignment/hw01.md) and pull any supporting files from the same directory.
+
+## Week 2
+- Slides: download the lecture decks from [`lecture_slides/week2/`](lecture_slides/week2/).
+- Transformer notebooks: explore transformer architectures for time series forecasting in `src/notebooks/transformer/`. Key notebooks include:
+  - [Transformer Univariate Time Series Forecasting.ipynb](src/notebooks/transformer/transformer_univariate_timeseries_forecasting.ipynb)
+  - [Auto-Regressive Transformer Univariate Time Series Forecasting.ipynb](src/notebooks/transformer/auto_regressive_transformer_univariate_timeseries_forecasting.ipynb)
+- Homework: begin with [`homeworks/week2/assignment/hw02.md`](homeworks/week2/assignment/hw02.md) and pull any supporting files from the same directory.
 
 ## Repository Layout
 - `homeworks/`: weekly assignments and starter code.
