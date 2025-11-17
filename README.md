@@ -21,6 +21,13 @@ This repository hosts the lecture material, notebooks, and homework for the Baru
   - [Auto-Regressive Transformer Univariate Time Series Forecasting.ipynb](src/notebooks/transformer/auto_regressive_transformer_univariate_timeseries_forecasting.ipynb)
 - Homework: begin with [`homeworks/week2/assignment/hw02.md`](homeworks/week2/assignment/hw02.md) and pull any supporting files from the same directory.
 
+## Week 3
+- Slides: download the lecture decks from [`lecture_slides/week3/`](lecture_slides/week3/).
+- Neural ODE notebooks: explore neural ordinary differential equations in `src/notebooks/node/`. Key notebooks include:
+  - [Neural ODE Illustration.ipynb](src/notebooks/node/neural_ode_illustration.ipynb)
+  - [Latent Neural ODE Illustration.ipynb](src/notebooks/node/latent_neural_ode_illustration.ipynb)
+- Homework: [`homeworks/week3/homework_latent_ode_bond_trading.ipynb`](homeworks/week3/homework_latent_ode_bond_trading.ipynb)
+
 ## Repository Layout
 - `homeworks/`: weekly assignments and starter code.
 - `lecture_slides/`: slide decks used in class.
