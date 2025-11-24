@@ -1,0 +1,1591 @@
+date,feature,coefficient,abs_coefficient
+2025-01-02,years_to_maturity,-6.403936446252118,6.403936446252118
+2025-01-02,seniority_Senior Unsecured,-5.807356293151764,5.807356293151764
+2025-01-02,seniority_Not Specified,-4.876153540670767,4.876153540670767
+2025-01-02,seniority_Senior Subordinated,-4.5255898803853665,4.5255898803853665
+2025-01-02,offering_yield,4.087283416239389,4.087283416239389
+2025-01-02,rating_broad_C,-3.5515382329300884,3.5515382329300884
+2025-01-02,rating_broad_CCC,-3.0826592282380383,3.0826592282380383
+2025-01-02,seniority_Senior Secured,-1.9212222424799388,1.9212222424799388
+2025-01-02,rating_broad_BB,1.694242860279931,1.694242860279931
+2025-01-02,sector_Retail Trade,-1.56825228887203,1.56825228887203
+2025-01-03,lagged_price,-0.0,0.0
+2025-01-03,coupon_type_label_Variable,-0.0,0.0
+2025-01-03,sector_Other,-0.0,0.0
+2025-01-03,sector_Manufacturing,-0.0,0.0
+2025-01-03,sector_Information/Media,0.0,0.0
+2025-01-03,sector_Finance & Insurance,0.0,0.0
+2025-01-03,sector_Energy (Oil & Gas),-0.0,0.0
+2025-01-03,sector_Construction,0.0,0.0
+2025-01-03,sector_Arts & Entertainment,0.0,0.0
+2025-01-03,sector_Administrative Services,0.0,0.0
+2025-01-06,convertible,0.6363373043638838,0.6363373043638838
+2025-01-06,rating_broad_D,-0.4890032680476659,0.4890032680476659
+2025-01-06,years_to_maturity,0.42744764272952296,0.42744764272952296
+2025-01-06,offering_yield,0.42356760058992377,0.42356760058992377
+2025-01-06,redeemable,-0.2892885062674227,0.2892885062674227
+2025-01-06,sector_Administrative Services,0.2746995427424483,0.2746995427424483
+2025-01-06,sector_Manufacturing,-0.2292143737983719,0.2292143737983719
+2025-01-06,sector_Retail Trade,0.22824648982187334,0.22824648982187334
+2025-01-06,amount_outstanding,-0.2044738168418304,0.2044738168418304
+2025-01-06,sector_Real Estate,-0.17958419599897685,0.17958419599897685
+2025-01-07,lagged_price,-0.0,0.0
+2025-01-07,sector_Arts & Entertainment,-0.0,0.0
+2025-01-07,sector_Manufacturing,0.0,0.0
+2025-01-07,sector_Management/Holdings,0.0,0.0
+2025-01-07,sector_Information/Media,0.0,0.0
+2025-01-07,sector_Healthcare,-0.0,0.0
+2025-01-07,sector_Finance & Insurance,-0.0,0.0
+2025-01-07,sector_Energy (Oil & Gas),-0.0,0.0
+2025-01-07,sector_Construction,0.0,0.0
+2025-01-07,sector_Administrative Services,0.0,0.0
+2025-01-08,years_to_maturity,0.17720282757566744,0.17720282757566744
+2025-01-08,lagged_price,-0.12674960888652081,0.12674960888652081
+2025-01-08,redeemable,-0.09396230000406501,0.09396230000406501
+2025-01-08,sector_Arts & Entertainment,0.0,0.0
+2025-01-08,sector_Management/Holdings,-0.0,0.0
+2025-01-08,sector_Information/Media,-0.0,0.0
+2025-01-08,sector_Healthcare,-0.0,0.0
+2025-01-08,sector_Finance & Insurance,0.0,0.0
+2025-01-08,sector_Energy (Oil & Gas),-0.0,0.0
+2025-01-08,sector_Construction,0.0,0.0
+2025-01-09,convertible,0.30252537753132136,0.30252537753132136
+2025-01-09,seniority_Subordinated,0.3008829876225057,0.3008829876225057
+2025-01-09,years_since_issue,-0.25437062964648344,0.25437062964648344
+2025-01-09,sector_Information/Media,-0.16248675316742922,0.16248675316742922
+2025-01-09,rating_broad_BB,-0.14532980645805982,0.14532980645805982
+2025-01-09,rating_broad_CCC,0.13877771202547606,0.13877771202547606
+2025-01-09,rating_broad_C,0.12033546875153749,0.12033546875153749
+2025-01-09,redeemable,-0.09805105371728749,0.09805105371728749
+2025-01-09,sector_Management/Holdings,-0.08864561064921123,0.08864561064921123
+2025-01-09,seniority_Senior Subordinated,0.08824748752328888,0.08824748752328888
+2025-01-10,redeemable,-0.47789534109654475,0.47789534109654475
+2025-01-10,years_since_issue,0.3933369993506174,0.3933369993506174
+2025-01-10,lagged_price,-0.2923842901005223,0.2923842901005223
+2025-01-10,rating_broad_C,0.26833804196212363,0.26833804196212363
+2025-01-10,years_to_maturity,0.18218974606963786,0.18218974606963786
+2025-01-10,convertible,-0.17237782179211847,0.17237782179211847
+2025-01-10,sector_Energy (Oil & Gas),-0.10398283111344393,0.10398283111344393
+2025-01-10,sector_Administrative Services,0.09039728344927327,0.09039728344927327
+2025-01-10,sector_Wholesale Trade,0.060699975406482906,0.060699975406482906
+2025-01-10,sector_Information/Media,-0.05139708725579861,0.05139708725579861
+2025-01-13,lagged_price,0.0,0.0
+2025-01-13,sector_Arts & Entertainment,0.0,0.0
+2025-01-13,sector_Manufacturing,0.0,0.0
+2025-01-13,sector_Management/Holdings,0.0,0.0
+2025-01-13,sector_Information/Media,-0.0,0.0
+2025-01-13,sector_Healthcare,-0.0,0.0
+2025-01-13,sector_Finance & Insurance,0.0,0.0
+2025-01-13,sector_Energy (Oil & Gas),0.0,0.0
+2025-01-13,sector_Construction,0.0,0.0
+2025-01-13,sector_Administrative Services,0.0,0.0
+2025-01-14,rating_broad_C,-1.5595360400550226e-17,1.5595360400550226e-17
+2025-01-14,lagged_price,0.0,0.0
+2025-01-14,sector_Manufacturing,0.0,0.0
+2025-01-14,sector_Management/Holdings,-0.0,0.0
+2025-01-14,sector_Information/Media,-0.0,0.0
+2025-01-14,sector_Finance & Insurance,0.0,0.0
+2025-01-14,sector_Energy (Oil & Gas),0.0,0.0
+2025-01-14,sector_Construction,0.0,0.0
+2025-01-14,sector_Arts & Entertainment,0.0,0.0
+2025-01-14,sector_Administrative Services,0.0,0.0
+2025-01-15,rating_broad_CCC,-4.9752277849520383e-17,4.9752277849520383e-17
+2025-01-15,lagged_price,0.0,0.0
+2025-01-15,sector_Administrative Services,0.0,0.0
+2025-01-15,sector_Management/Holdings,0.0,0.0
+2025-01-15,sector_Information/Media,-0.0,0.0
+2025-01-15,sector_Healthcare,-0.0,0.0
+2025-01-15,sector_Finance & Insurance,0.0,0.0
+2025-01-15,sector_Energy (Oil & Gas),-0.0,0.0
+2025-01-15,sector_Construction,0.0,0.0
+2025-01-15,sector_Arts & Entertainment,0.0,0.0
+2025-01-16,lagged_price,-0.0,0.0
+2025-01-16,coupon_type_label_Variable,-0.0,0.0
+2025-01-16,sector_Manufacturing,0.0,0.0
+2025-01-16,sector_Management/Holdings,0.0,0.0
+2025-01-16,sector_Information/Media,-0.0,0.0
+2025-01-16,sector_Finance & Insurance,-0.0,0.0
+2025-01-16,sector_Energy (Oil & Gas),0.0,0.0
+2025-01-16,sector_Construction,0.0,0.0
+2025-01-16,sector_Arts & Entertainment,-0.0,0.0
+2025-01-16,sector_Administrative Services,0.0,0.0
+2025-01-17,lagged_price,0.0,0.0
+2025-01-17,sector_Other,0.0,0.0
+2025-01-17,sector_Management/Holdings,-0.0,0.0
+2025-01-17,sector_Information/Media,-0.0,0.0
+2025-01-17,sector_Healthcare,-0.0,0.0
+2025-01-17,sector_Finance & Insurance,-0.0,0.0
+2025-01-17,sector_Energy (Oil & Gas),0.0,0.0
+2025-01-17,sector_Construction,0.0,0.0
+2025-01-17,sector_Arts & Entertainment,0.0,0.0
+2025-01-17,sector_Administrative Services,0.0,0.0
+2025-01-21,rating_broad_C,1.912117012280013e-17,1.912117012280013e-17
+2025-01-21,sector_Administrative Services,0.0,0.0
+2025-01-21,sector_Management/Holdings,0.0,0.0
+2025-01-21,sector_Information/Media,-0.0,0.0
+2025-01-21,sector_Healthcare,-0.0,0.0
+2025-01-21,sector_Finance & Insurance,0.0,0.0
+2025-01-21,sector_Energy (Oil & Gas),-0.0,0.0
+2025-01-21,sector_Construction,0.0,0.0
+2025-01-21,sector_Arts & Entertainment,0.0,0.0
+2025-01-21,lagged_price,-0.0,0.0
+2025-01-22,lagged_price,0.0,0.0
+2025-01-22,sector_Other Services,-0.0,0.0
+2025-01-22,sector_Manufacturing,0.0,0.0
+2025-01-22,sector_Management/Holdings,0.0,0.0
+2025-01-22,sector_Information/Media,-0.0,0.0
+2025-01-22,sector_Finance & Insurance,-0.0,0.0
+2025-01-22,sector_Energy (Oil & Gas),-0.0,0.0
+2025-01-22,sector_Construction,0.0,0.0
+2025-01-22,sector_Arts & Entertainment,0.0,0.0
+2025-01-22,sector_Administrative Services,0.0,0.0
+2025-01-23,lagged_price,-0.0,0.0
+2025-01-23,sector_Arts & Entertainment,0.0,0.0
+2025-01-23,sector_Manufacturing,0.0,0.0
+2025-01-23,sector_Management/Holdings,0.0,0.0
+2025-01-23,sector_Information/Media,-0.0,0.0
+2025-01-23,sector_Finance & Insurance,0.0,0.0
+2025-01-23,sector_Energy (Oil & Gas),-0.0,0.0
+2025-01-23,sector_Construction,0.0,0.0
+2025-01-23,rule_144a,0.0,0.0
+2025-01-23,sector_Other Services,0.0,0.0
+2025-01-24,redeemable,-0.16072678195779452,0.16072678195779452
+2025-01-24,years_since_issue,0.10528269959842015,0.10528269959842015
+2025-01-24,years_to_maturity,0.09595334148835312,0.09595334148835312
+2025-01-24,rating_broad_D,-0.08867236486701259,0.08867236486701259
+2025-01-24,sector_Retail Trade,-0.02000106535321731,0.02000106535321731
+2025-01-24,convertible,0.006249111679020322,0.006249111679020322
+2025-01-24,lagged_price,-0.0,0.0
+2025-01-24,sector_Construction,0.0,0.0
+2025-01-24,sector_Management/Holdings,-0.0,0.0
+2025-01-24,sector_Information/Media,-0.0,0.0
+2025-01-27,lagged_price,-0.0,0.0
+2025-01-27,sector_Arts & Entertainment,0.0,0.0
+2025-01-27,sector_Manufacturing,0.0,0.0
+2025-01-27,sector_Management/Holdings,0.0,0.0
+2025-01-27,sector_Information/Media,-0.0,0.0
+2025-01-27,sector_Healthcare,-0.0,0.0
+2025-01-27,sector_Finance & Insurance,-0.0,0.0
+2025-01-27,sector_Energy (Oil & Gas),-0.0,0.0
+2025-01-27,sector_Construction,0.0,0.0
+2025-01-27,sector_Administrative Services,0.0,0.0
+2025-01-28,years_since_issue,-0.7073181368939695,0.7073181368939695
+2025-01-28,redeemable,0.4120083526416128,0.4120083526416128
+2025-01-28,sector_Utilities,-0.2047293821186797,0.2047293821186797
+2025-01-28,convertible,0.10636710069869328,0.10636710069869328
+2025-01-28,coupon_type_label_Variable,-0.020467369026610227,0.020467369026610227
+2025-01-28,sector_Construction,0.0,0.0
+2025-01-28,sector_Management/Holdings,0.0,0.0
+2025-01-28,sector_Information/Media,-0.0,0.0
+2025-01-28,sector_Healthcare,0.0,0.0
+2025-01-28,sector_Finance & Insurance,0.0,0.0
+2025-01-29,rating_broad_CCC,-1.4595767342231748e-17,1.4595767342231748e-17
+2025-01-29,lagged_price,0.0,0.0
+2025-01-29,sector_Administrative Services,0.0,0.0
+2025-01-29,sector_Management/Holdings,0.0,0.0
+2025-01-29,sector_Information/Media,0.0,0.0
+2025-01-29,sector_Healthcare,0.0,0.0
+2025-01-29,sector_Finance & Insurance,-0.0,0.0
+2025-01-29,sector_Energy (Oil & Gas),-0.0,0.0
+2025-01-29,sector_Construction,0.0,0.0
+2025-01-29,sector_Arts & Entertainment,0.0,0.0
+2025-01-30,putable,3.957495802837809e-17,3.957495802837809e-17
+2025-01-30,lagged_price,-0.0,0.0
+2025-01-30,sector_Arts & Entertainment,-0.0,0.0
+2025-01-30,sector_Manufacturing,-0.0,0.0
+2025-01-30,sector_Management/Holdings,-0.0,0.0
+2025-01-30,sector_Information/Media,0.0,0.0
+2025-01-30,sector_Healthcare,0.0,0.0
+2025-01-30,sector_Finance & Insurance,0.0,0.0
+2025-01-30,sector_Energy (Oil & Gas),-0.0,0.0
+2025-01-30,sector_Construction,0.0,0.0
+2025-01-31,convertible,1.2440183912260306e-17,1.2440183912260306e-17
+2025-01-31,lagged_price,0.0,0.0
+2025-01-31,sector_Arts & Entertainment,-0.0,0.0
+2025-01-31,sector_Management/Holdings,0.0,0.0
+2025-01-31,sector_Information/Media,-0.0,0.0
+2025-01-31,sector_Healthcare,-0.0,0.0
+2025-01-31,sector_Finance & Insurance,0.0,0.0
+2025-01-31,sector_Energy (Oil & Gas),-0.0,0.0
+2025-01-31,sector_Construction,0.0,0.0
+2025-01-31,sector_Administrative Services,0.0,0.0
+2025-02-03,lagged_price,0.6148315366444206,0.6148315366444206
+2025-02-03,rating_broad_CCC,-0.3805471654812206,0.3805471654812206
+2025-02-03,sector_Arts & Entertainment,0.0,0.0
+2025-02-03,sector_Management/Holdings,-0.0,0.0
+2025-02-03,sector_Information/Media,-0.0,0.0
+2025-02-03,sector_Healthcare,-0.0,0.0
+2025-02-03,sector_Finance & Insurance,-0.0,0.0
+2025-02-03,sector_Energy (Oil & Gas),0.0,0.0
+2025-02-03,sector_Construction,0.0,0.0
+2025-02-03,rule_144a,0.0,0.0
+2025-02-04,rating_broad_C,-0.5450034867450169,0.5450034867450169
+2025-02-04,lagged_price,-0.0,0.0
+2025-02-04,sector_Management/Holdings,0.0,0.0
+2025-02-04,sector_Information/Media,0.0,0.0
+2025-02-04,sector_Healthcare,-0.0,0.0
+2025-02-04,sector_Finance & Insurance,-0.0,0.0
+2025-02-04,sector_Energy (Oil & Gas),-0.0,0.0
+2025-02-04,sector_Construction,0.0,0.0
+2025-02-04,sector_Arts & Entertainment,-0.0,0.0
+2025-02-04,sector_Administrative Services,0.0,0.0
+2025-02-05,lagged_price,-0.0,0.0
+2025-02-05,sector_Other,-0.0,0.0
+2025-02-05,sector_Management/Holdings,-0.0,0.0
+2025-02-05,sector_Information/Media,0.0,0.0
+2025-02-05,sector_Healthcare,-0.0,0.0
+2025-02-05,sector_Finance & Insurance,-0.0,0.0
+2025-02-05,sector_Energy (Oil & Gas),-0.0,0.0
+2025-02-05,sector_Construction,-0.0,0.0
+2025-02-05,sector_Arts & Entertainment,0.0,0.0
+2025-02-05,sector_Administrative Services,0.0,0.0
+2025-02-06,redeemable,-2.833968373703421e-16,2.833968373703421e-16
+2025-02-06,lagged_price,-0.0,0.0
+2025-02-06,sector_Arts & Entertainment,-0.0,0.0
+2025-02-06,sector_Other,0.0,0.0
+2025-02-06,sector_Manufacturing,0.0,0.0
+2025-02-06,sector_Management/Holdings,-0.0,0.0
+2025-02-06,sector_Information/Media,0.0,0.0
+2025-02-06,sector_Finance & Insurance,0.0,0.0
+2025-02-06,sector_Energy (Oil & Gas),-0.0,0.0
+2025-02-06,sector_Construction,0.0,0.0
+2025-02-07,convertible,1.568868652159291,1.568868652159291
+2025-02-07,lagged_price,-0.0,0.0
+2025-02-07,sector_Arts & Entertainment,0.0,0.0
+2025-02-07,sector_Manufacturing,0.0,0.0
+2025-02-07,sector_Management/Holdings,-0.0,0.0
+2025-02-07,sector_Information/Media,-0.0,0.0
+2025-02-07,sector_Finance & Insurance,-0.0,0.0
+2025-02-07,sector_Energy (Oil & Gas),-0.0,0.0
+2025-02-07,sector_Construction,0.0,0.0
+2025-02-07,sector_Administrative Services,0.0,0.0
+2025-02-10,lagged_price,-0.24513705693186813,0.24513705693186813
+2025-02-10,convertible,-0.10360521174900608,0.10360521174900608
+2025-02-10,sector_Arts & Entertainment,-0.0,0.0
+2025-02-10,sector_Manufacturing,0.0,0.0
+2025-02-10,sector_Management/Holdings,0.0,0.0
+2025-02-10,sector_Information/Media,0.0,0.0
+2025-02-10,sector_Finance & Insurance,-0.0,0.0
+2025-02-10,sector_Energy (Oil & Gas),-0.0,0.0
+2025-02-10,sector_Construction,0.0,0.0
+2025-02-10,sector_Administrative Services,0.0,0.0
+2025-02-11,rating_broad_D,-0.22493757659294894,0.22493757659294894
+2025-02-11,lagged_price,-0.0,0.0
+2025-02-11,sector_Administrative Services,0.0,0.0
+2025-02-11,sector_Manufacturing,-0.0,0.0
+2025-02-11,sector_Management/Holdings,0.0,0.0
+2025-02-11,sector_Information/Media,0.0,0.0
+2025-02-11,sector_Finance & Insurance,-0.0,0.0
+2025-02-11,sector_Energy (Oil & Gas),-0.0,0.0
+2025-02-11,sector_Construction,-0.0,0.0
+2025-02-11,sector_Arts & Entertainment,-0.0,0.0
+2025-02-12,lagged_price,-0.0,0.0
+2025-02-12,sector_Other Services,0.0,0.0
+2025-02-12,sector_Manufacturing,-0.0,0.0
+2025-02-12,sector_Management/Holdings,-0.0,0.0
+2025-02-12,sector_Information/Media,0.0,0.0
+2025-02-12,sector_Finance & Insurance,0.0,0.0
+2025-02-12,sector_Energy (Oil & Gas),-0.0,0.0
+2025-02-12,sector_Construction,0.0,0.0
+2025-02-12,sector_Arts & Entertainment,0.0,0.0
+2025-02-12,sector_Administrative Services,0.0,0.0
+2025-02-13,lagged_price,-0.0,0.0
+2025-02-13,sector_Arts & Entertainment,0.0,0.0
+2025-02-13,sector_Manufacturing,-0.0,0.0
+2025-02-13,sector_Management/Holdings,0.0,0.0
+2025-02-13,sector_Information/Media,0.0,0.0
+2025-02-13,sector_Healthcare,-0.0,0.0
+2025-02-13,sector_Finance & Insurance,-0.0,0.0
+2025-02-13,sector_Energy (Oil & Gas),-0.0,0.0
+2025-02-13,sector_Construction,0.0,0.0
+2025-02-13,sector_Administrative Services,0.0,0.0
+2025-02-14,redeemable,-1.7648454883111474e-17,1.7648454883111474e-17
+2025-02-14,lagged_price,0.0,0.0
+2025-02-14,sector_Arts & Entertainment,-0.0,0.0
+2025-02-14,sector_Manufacturing,0.0,0.0
+2025-02-14,sector_Management/Holdings,-0.0,0.0
+2025-02-14,sector_Information/Media,-0.0,0.0
+2025-02-14,sector_Finance & Insurance,-0.0,0.0
+2025-02-14,sector_Energy (Oil & Gas),-0.0,0.0
+2025-02-14,sector_Construction,-0.0,0.0
+2025-02-14,sector_Administrative Services,0.0,0.0
+2025-02-18,redeemable,-0.33079609562486434,0.33079609562486434
+2025-02-18,years_to_maturity,0.12346420459155948,0.12346420459155948
+2025-02-18,lagged_price,-0.0,0.0
+2025-02-18,sector_Construction,0.0,0.0
+2025-02-18,sector_Manufacturing,-0.0,0.0
+2025-02-18,sector_Management/Holdings,-0.0,0.0
+2025-02-18,sector_Information/Media,0.0,0.0
+2025-02-18,sector_Healthcare,-0.0,0.0
+2025-02-18,sector_Finance & Insurance,0.0,0.0
+2025-02-18,sector_Energy (Oil & Gas),-0.0,0.0
+2025-02-19,lagged_price,-0.0,0.0
+2025-02-19,sector_Other Services,-0.0,0.0
+2025-02-19,sector_Manufacturing,0.0,0.0
+2025-02-19,sector_Management/Holdings,0.0,0.0
+2025-02-19,sector_Information/Media,0.0,0.0
+2025-02-19,sector_Finance & Insurance,-0.0,0.0
+2025-02-19,sector_Energy (Oil & Gas),-0.0,0.0
+2025-02-19,sector_Construction,0.0,0.0
+2025-02-19,sector_Arts & Entertainment,-0.0,0.0
+2025-02-19,sector_Administrative Services,0.0,0.0
+2025-02-20,rating_broad_D,-1.1539260293582103e-17,1.1539260293582103e-17
+2025-02-20,lagged_price,-0.0,0.0
+2025-02-20,sector_Administrative Services,0.0,0.0
+2025-02-20,sector_Information/Media,0.0,0.0
+2025-02-20,sector_Healthcare,-0.0,0.0
+2025-02-20,sector_Finance & Insurance,0.0,0.0
+2025-02-20,sector_Energy (Oil & Gas),-0.0,0.0
+2025-02-20,sector_Construction,0.0,0.0
+2025-02-20,sector_Arts & Entertainment,-0.0,0.0
+2025-02-20,rule_144a,0.0,0.0
+2025-02-21,rating_broad_C,-8.942116017226565,8.942116017226565
+2025-02-21,lagged_price,-2.767493424170364,2.767493424170364
+2025-02-21,offering_yield,2.1964777900398693,2.1964777900398693
+2025-02-21,seniority_Senior Subordinated,-1.289408794950831,1.289408794950831
+2025-02-21,rating_broad_CCC,-1.0354550354171712,1.0354550354171712
+2025-02-21,seniority_Senior Unsecured,-0.7070653061600601,0.7070653061600601
+2025-02-21,convertible,-0.6956052011897154,0.6956052011897154
+2025-02-21,years_since_issue,0.6717370585534991,0.6717370585534991
+2025-02-21,coupon_type_label_Variable,-0.529029008606443,0.529029008606443
+2025-02-21,sector_Administrative Services,0.4887781864848754,0.4887781864848754
+2025-02-24,rating_broad_C,0.7098273662572343,0.7098273662572343
+2025-02-24,lagged_price,-0.6585393755422716,0.6585393755422716
+2025-02-24,redeemable,-0.23560407977717326,0.23560407977717326
+2025-02-24,sector_Information/Media,0.19053637094699624,0.19053637094699624
+2025-02-24,rating_broad_BB,-0.10920517150745424,0.10920517150745424
+2025-02-24,sector_Finance & Insurance,-0.03980006277236598,0.03980006277236598
+2025-02-24,rule_144a,0.03923107207603957,0.03923107207603957
+2025-02-24,rating_broad_D,0.039230678497687174,0.039230678497687174
+2025-02-24,sector_Manufacturing,-0.010137824912116488,0.010137824912116488
+2025-02-24,sector_Real Estate,0.00869818287835905,0.00869818287835905
+2025-02-25,rating_broad_C,5.794186243820863,5.794186243820863
+2025-02-25,rating_broad_CCC,-0.7525633716054265,0.7525633716054265
+2025-02-25,redeemable,-0.40774166528933964,0.40774166528933964
+2025-02-25,years_since_issue,-0.09968557384710107,0.09968557384710107
+2025-02-25,rating_broad_BB,0.08048534445799985,0.08048534445799985
+2025-02-25,convertible,-0.07410468058513935,0.07410468058513935
+2025-02-25,sector_Arts & Entertainment,-0.0,0.0
+2025-02-25,sector_Information/Media,-0.0,0.0
+2025-02-25,sector_Healthcare,0.0,0.0
+2025-02-25,sector_Finance & Insurance,0.0,0.0
+2025-02-26,rating_broad_C,1.293394685326548,1.293394685326548
+2025-02-26,years_since_issue,-0.32640893995007625,0.32640893995007625
+2025-02-26,redeemable,0.1130906469407121,0.1130906469407121
+2025-02-26,seniority_Senior Subordinated,0.04237407132494514,0.04237407132494514
+2025-02-26,amount_outstanding,-0.008516440169676521,0.008516440169676521
+2025-02-26,years_to_maturity,0.0,0.0
+2025-02-26,putable,0.0,0.0
+2025-02-26,offering_yield,-0.0,0.0
+2025-02-26,convertible,0.0,0.0
+2025-02-26,sector_Other,-0.0,0.0
+2025-02-27,rating_broad_C,-0.39893665166528147,0.39893665166528147
+2025-02-27,lagged_price,-0.0,0.0
+2025-02-27,sector_Manufacturing,0.0,0.0
+2025-02-27,sector_Management/Holdings,0.0,0.0
+2025-02-27,sector_Information/Media,-0.0,0.0
+2025-02-27,sector_Finance & Insurance,0.0,0.0
+2025-02-27,sector_Energy (Oil & Gas),0.0,0.0
+2025-02-27,sector_Construction,-0.0,0.0
+2025-02-27,sector_Arts & Entertainment,-0.0,0.0
+2025-02-27,sector_Administrative Services,-0.0,0.0
+2025-02-28,convertible,8.120176480310388,8.120176480310388
+2025-02-28,lagged_price,0.0,0.0
+2025-02-28,sector_Arts & Entertainment,-0.0,0.0
+2025-02-28,sector_Manufacturing,0.0,0.0
+2025-02-28,sector_Management/Holdings,-0.0,0.0
+2025-02-28,sector_Information/Media,-0.0,0.0
+2025-02-28,sector_Healthcare,0.0,0.0
+2025-02-28,sector_Finance & Insurance,0.0,0.0
+2025-02-28,sector_Energy (Oil & Gas),-0.0,0.0
+2025-02-28,sector_Construction,0.0,0.0
+2025-03-03,lagged_price,-13.46532304524613,13.46532304524613
+2025-03-03,seniority_Senior Unsecured,-9.836948131821899,9.836948131821899
+2025-03-03,years_to_maturity,-6.382628359709192,6.382628359709192
+2025-03-03,seniority_Senior Subordinated,-6.158543160205947,6.158543160205947
+2025-03-03,seniority_Not Specified,-5.286115679437095,5.286115679437095
+2025-03-03,offering_yield,4.94834794107334,4.94834794107334
+2025-03-03,seniority_Senior Secured,-3.9676094313405725,3.9676094313405725
+2025-03-03,rating_broad_CCC,-3.239338268584348,3.239338268584348
+2025-03-03,rating_broad_C,-2.778204507951556,2.778204507951556
+2025-03-03,seniority_Subordinated,-1.619035035537011,1.619035035537011
+2025-03-04,lagged_price,-0.0,0.0
+2025-03-04,sector_Other,-0.0,0.0
+2025-03-04,sector_Management/Holdings,-0.0,0.0
+2025-03-04,sector_Information/Media,0.0,0.0
+2025-03-04,sector_Healthcare,-0.0,0.0
+2025-03-04,sector_Finance & Insurance,-0.0,0.0
+2025-03-04,sector_Energy (Oil & Gas),0.0,0.0
+2025-03-04,sector_Construction,0.0,0.0
+2025-03-04,sector_Arts & Entertainment,0.0,0.0
+2025-03-04,sector_Administrative Services,-0.0,0.0
+2025-03-05,lagged_price,-0.0,0.0
+2025-03-05,sector_Other,0.0,0.0
+2025-03-05,sector_Management/Holdings,-0.0,0.0
+2025-03-05,sector_Information/Media,0.0,0.0
+2025-03-05,sector_Healthcare,-0.0,0.0
+2025-03-05,sector_Finance & Insurance,-0.0,0.0
+2025-03-05,sector_Energy (Oil & Gas),-0.0,0.0
+2025-03-05,sector_Construction,0.0,0.0
+2025-03-05,sector_Arts & Entertainment,0.0,0.0
+2025-03-05,sector_Administrative Services,0.0,0.0
+2025-03-06,lagged_price,-0.0,0.0
+2025-03-06,sector_Other,-0.0,0.0
+2025-03-06,sector_Management/Holdings,0.0,0.0
+2025-03-06,sector_Information/Media,0.0,0.0
+2025-03-06,sector_Healthcare,-0.0,0.0
+2025-03-06,sector_Finance & Insurance,-0.0,0.0
+2025-03-06,sector_Energy (Oil & Gas),-0.0,0.0
+2025-03-06,sector_Construction,0.0,0.0
+2025-03-06,sector_Arts & Entertainment,0.0,0.0
+2025-03-06,sector_Administrative Services,0.0,0.0
+2025-03-07,lagged_price,-0.145054119438437,0.145054119438437
+2025-03-07,years_to_maturity,0.10829125493129341,0.10829125493129341
+2025-03-07,convertible,0.10802214765493949,0.10802214765493949
+2025-03-07,rating_broad_CCC,-0.09356613900371898,0.09356613900371898
+2025-03-07,seniority_Senior Secured,0.058482340915689074,0.058482340915689074
+2025-03-07,sector_Energy (Oil & Gas),-0.04286279729302891,0.04286279729302891
+2025-03-07,seniority_Subordinated,0.04256256064192884,0.04256256064192884
+2025-03-07,sector_Utilities,0.03470051014152219,0.03470051014152219
+2025-03-07,offering_yield,-0.01335829158321541,0.01335829158321541
+2025-03-07,sector_Arts & Entertainment,-0.0,0.0
+2025-03-10,rating_broad_CCC,-0.3657625987958391,0.3657625987958391
+2025-03-10,redeemable,0.3209870039832681,0.3209870039832681
+2025-03-10,seniority_Senior Secured,0.24870582394387866,0.24870582394387866
+2025-03-10,years_since_issue,-0.23429494262153006,0.23429494262153006
+2025-03-10,rating_broad_C,0.20639786963450144,0.20639786963450144
+2025-03-10,sector_Manufacturing,-0.19907201004258976,0.19907201004258976
+2025-03-10,sector_Utilities,0.16069259215386408,0.16069259215386408
+2025-03-10,sector_Energy (Oil & Gas),-0.09263335431815678,0.09263335431815678
+2025-03-10,offering_yield,-0.0808286272043135,0.0808286272043135
+2025-03-10,sector_Retail Trade,-0.06679772591485353,0.06679772591485353
+2025-03-11,lagged_price,-0.0,0.0
+2025-03-11,sector_Arts & Entertainment,0.0,0.0
+2025-03-11,sector_Manufacturing,0.0,0.0
+2025-03-11,sector_Management/Holdings,-0.0,0.0
+2025-03-11,sector_Information/Media,-0.0,0.0
+2025-03-11,sector_Healthcare,0.0,0.0
+2025-03-11,sector_Finance & Insurance,0.0,0.0
+2025-03-11,sector_Energy (Oil & Gas),-0.0,0.0
+2025-03-11,sector_Construction,0.0,0.0
+2025-03-11,sector_Administrative Services,0.0,0.0
+2025-03-12,lagged_price,-0.0,0.0
+2025-03-12,sector_Arts & Entertainment,0.0,0.0
+2025-03-12,sector_Manufacturing,-0.0,0.0
+2025-03-12,sector_Management/Holdings,-0.0,0.0
+2025-03-12,sector_Information/Media,-0.0,0.0
+2025-03-12,sector_Healthcare,0.0,0.0
+2025-03-12,sector_Finance & Insurance,0.0,0.0
+2025-03-12,sector_Energy (Oil & Gas),-0.0,0.0
+2025-03-12,sector_Construction,0.0,0.0
+2025-03-12,sector_Administrative Services,0.0,0.0
+2025-03-13,years_to_maturity,2.0859295983151694e-17,2.0859295983151694e-17
+2025-03-13,lagged_price,-0.0,0.0
+2025-03-13,sector_Arts & Entertainment,0.0,0.0
+2025-03-13,sector_Management/Holdings,-0.0,0.0
+2025-03-13,sector_Information/Media,-0.0,0.0
+2025-03-13,sector_Healthcare,0.0,0.0
+2025-03-13,sector_Finance & Insurance,-0.0,0.0
+2025-03-13,sector_Energy (Oil & Gas),0.0,0.0
+2025-03-13,sector_Construction,0.0,0.0
+2025-03-13,sector_Administrative Services,0.0,0.0
+2025-03-14,lagged_price,-0.0,0.0
+2025-03-14,sector_Arts & Entertainment,0.0,0.0
+2025-03-14,sector_Management/Holdings,-0.0,0.0
+2025-03-14,sector_Information/Media,0.0,0.0
+2025-03-14,sector_Healthcare,0.0,0.0
+2025-03-14,sector_Finance & Insurance,0.0,0.0
+2025-03-14,sector_Energy (Oil & Gas),0.0,0.0
+2025-03-14,sector_Construction,0.0,0.0
+2025-03-14,rule_144a,0.0,0.0
+2025-03-14,sector_Other,-0.0,0.0
+2025-03-17,lagged_price,0.0,0.0
+2025-03-17,coupon_type_label_Variable,0.0,0.0
+2025-03-17,sector_Management/Holdings,-0.0,0.0
+2025-03-17,sector_Information/Media,-0.0,0.0
+2025-03-17,sector_Healthcare,0.0,0.0
+2025-03-17,sector_Finance & Insurance,0.0,0.0
+2025-03-17,sector_Energy (Oil & Gas),0.0,0.0
+2025-03-17,sector_Construction,0.0,0.0
+2025-03-17,sector_Arts & Entertainment,-0.0,0.0
+2025-03-17,sector_Administrative Services,0.0,0.0
+2025-03-18,lagged_price,-0.0,0.0
+2025-03-18,sector_Other,0.0,0.0
+2025-03-18,sector_Management/Holdings,-0.0,0.0
+2025-03-18,sector_Information/Media,-0.0,0.0
+2025-03-18,sector_Healthcare,0.0,0.0
+2025-03-18,sector_Finance & Insurance,0.0,0.0
+2025-03-18,sector_Energy (Oil & Gas),-0.0,0.0
+2025-03-18,sector_Construction,0.0,0.0
+2025-03-18,sector_Arts & Entertainment,0.0,0.0
+2025-03-18,sector_Administrative Services,0.0,0.0
+2025-03-19,convertible,8.462761302698938,8.462761302698938
+2025-03-19,lagged_price,0.0,0.0
+2025-03-19,sector_Construction,0.0,0.0
+2025-03-19,sector_Manufacturing,-0.0,0.0
+2025-03-19,sector_Management/Holdings,-0.0,0.0
+2025-03-19,sector_Information/Media,-0.0,0.0
+2025-03-19,sector_Healthcare,0.0,0.0
+2025-03-19,sector_Finance & Insurance,-0.0,0.0
+2025-03-19,sector_Energy (Oil & Gas),-0.0,0.0
+2025-03-19,sector_Arts & Entertainment,0.0,0.0
+2025-03-20,lagged_price,-0.0,0.0
+2025-03-20,coupon_type_label_Variable,-0.0,0.0
+2025-03-20,sector_Manufacturing,0.0,0.0
+2025-03-20,sector_Management/Holdings,0.0,0.0
+2025-03-20,sector_Information/Media,-0.0,0.0
+2025-03-20,sector_Finance & Insurance,-0.0,0.0
+2025-03-20,sector_Energy (Oil & Gas),-0.0,0.0
+2025-03-20,sector_Construction,0.0,0.0
+2025-03-20,sector_Arts & Entertainment,0.0,0.0
+2025-03-20,sector_Administrative Services,0.0,0.0
+2025-03-21,lagged_price,-5.6909622723107525,5.6909622723107525
+2025-03-21,years_to_maturity,-4.183647919442343,4.183647919442343
+2025-03-21,seniority_Not Specified,-3.402907493023258,3.402907493023258
+2025-03-21,coupon_type_label_Variable,3.215052613816131,3.215052613816131
+2025-03-21,rating_broad_C,-2.4722778916907973,2.4722778916907973
+2025-03-21,offering_yield,2.2992817986035234,2.2992817986035234
+2025-03-21,convertible,-1.9334416605737186,1.9334416605737186
+2025-03-21,seniority_Senior Subordinated,-1.5090984136958783,1.5090984136958783
+2025-03-21,rating_broad_BB,1.4281461377197442,1.4281461377197442
+2025-03-21,seniority_Subordinated,-1.3671826427403633,1.3671826427403633
+2025-03-24,lagged_price,-0.0,0.0
+2025-03-24,sector_Other,0.0,0.0
+2025-03-24,sector_Management/Holdings,-0.0,0.0
+2025-03-24,sector_Information/Media,-0.0,0.0
+2025-03-24,sector_Healthcare,-0.0,0.0
+2025-03-24,sector_Finance & Insurance,-0.0,0.0
+2025-03-24,sector_Energy (Oil & Gas),-0.0,0.0
+2025-03-24,sector_Construction,0.0,0.0
+2025-03-24,sector_Arts & Entertainment,0.0,0.0
+2025-03-24,sector_Administrative Services,0.0,0.0
+2025-03-25,lagged_price,-0.0,0.0
+2025-03-25,sector_Arts & Entertainment,-0.0,0.0
+2025-03-25,sector_Management/Holdings,-0.0,0.0
+2025-03-25,sector_Information/Media,-0.0,0.0
+2025-03-25,sector_Healthcare,0.0,0.0
+2025-03-25,sector_Finance & Insurance,0.0,0.0
+2025-03-25,sector_Energy (Oil & Gas),-0.0,0.0
+2025-03-25,sector_Construction,0.0,0.0
+2025-03-25,rule_144a,0.0,0.0
+2025-03-25,sector_Other,0.0,0.0
+2025-03-26,lagged_price,-0.5496794691121831,0.5496794691121831
+2025-03-26,years_since_issue,0.35935892890385607,0.35935892890385607
+2025-03-26,convertible,-0.3450040598999017,0.3450040598999017
+2025-03-26,sector_Management/Holdings,-0.23983541476978873,0.23983541476978873
+2025-03-26,years_to_maturity,0.2120401447302106,0.2120401447302106
+2025-03-26,rating_broad_BB,-0.17106079908795815,0.17106079908795815
+2025-03-26,rating_broad_CCC,-0.16370424621468369,0.16370424621468369
+2025-03-26,rating_broad_C,0.14764887794701867,0.14764887794701867
+2025-03-26,amount_outstanding,-0.1244253461165999,0.1244253461165999
+2025-03-26,sector_Information/Media,-0.09577344134261957,0.09577344134261957
+2025-03-27,lagged_price,-0.0,0.0
+2025-03-27,coupon_type_label_Variable,-0.0,0.0
+2025-03-27,sector_Manufacturing,-0.0,0.0
+2025-03-27,sector_Management/Holdings,-0.0,0.0
+2025-03-27,sector_Information/Media,-0.0,0.0
+2025-03-27,sector_Healthcare,-0.0,0.0
+2025-03-27,sector_Finance & Insurance,0.0,0.0
+2025-03-27,sector_Energy (Oil & Gas),-0.0,0.0
+2025-03-27,sector_Construction,0.0,0.0
+2025-03-27,sector_Arts & Entertainment,0.0,0.0
+2025-03-28,lagged_price,-0.0,0.0
+2025-03-28,coupon_type_label_Variable,0.0,0.0
+2025-03-28,sector_Management/Holdings,-0.0,0.0
+2025-03-28,sector_Information/Media,-0.0,0.0
+2025-03-28,sector_Healthcare,-0.0,0.0
+2025-03-28,sector_Finance & Insurance,0.0,0.0
+2025-03-28,sector_Energy (Oil & Gas),-0.0,0.0
+2025-03-28,sector_Construction,-0.0,0.0
+2025-03-28,sector_Arts & Entertainment,0.0,0.0
+2025-03-28,sector_Administrative Services,0.0,0.0
+2025-03-31,seniority_Senior Secured,-1.4175229134543236e-17,1.4175229134543236e-17
+2025-03-31,lagged_price,-0.0,0.0
+2025-03-31,sector_Administrative Services,0.0,0.0
+2025-03-31,sector_Management/Holdings,-0.0,0.0
+2025-03-31,sector_Information/Media,-0.0,0.0
+2025-03-31,sector_Healthcare,-0.0,0.0
+2025-03-31,sector_Finance & Insurance,0.0,0.0
+2025-03-31,sector_Energy (Oil & Gas),-0.0,0.0
+2025-03-31,sector_Construction,0.0,0.0
+2025-03-31,sector_Arts & Entertainment,0.0,0.0
+2025-04-01,lagged_price,-0.033213376186118894,0.033213376186118894
+2025-04-01,coupon_type_label_Variable,-0.0,0.0
+2025-04-01,sector_Manufacturing,-0.0,0.0
+2025-04-01,sector_Management/Holdings,-0.0,0.0
+2025-04-01,sector_Information/Media,-0.0,0.0
+2025-04-01,sector_Finance & Insurance,0.0,0.0
+2025-04-01,sector_Energy (Oil & Gas),-0.0,0.0
+2025-04-01,sector_Construction,0.0,0.0
+2025-04-01,sector_Arts & Entertainment,0.0,0.0
+2025-04-01,sector_Administrative Services,0.0,0.0
+2025-04-02,lagged_price,-0.0,0.0
+2025-04-02,sector_Other Services,0.0,0.0
+2025-04-02,sector_Manufacturing,-0.0,0.0
+2025-04-02,sector_Management/Holdings,-0.0,0.0
+2025-04-02,sector_Information/Media,-0.0,0.0
+2025-04-02,sector_Healthcare,-0.0,0.0
+2025-04-02,sector_Finance & Insurance,0.0,0.0
+2025-04-02,sector_Energy (Oil & Gas),0.0,0.0
+2025-04-02,sector_Construction,0.0,0.0
+2025-04-02,sector_Arts & Entertainment,0.0,0.0
+2025-04-03,rating_broad_CCC,-0.9354262769093488,0.9354262769093488
+2025-04-03,sector_Energy (Oil & Gas),-0.45900876172181104,0.45900876172181104
+2025-04-03,redeemable,0.4210912970146716,0.4210912970146716
+2025-04-03,sector_Manufacturing,-0.3317459666195965,0.3317459666195965
+2025-04-03,rating_broad_C,0.31189773323878867,0.31189773323878867
+2025-04-03,rating_broad_D,-0.31004530869137215,0.31004530869137215
+2025-04-03,sector_Information/Media,-0.273172124418496,0.273172124418496
+2025-04-03,sector_Finance & Insurance,0.26296082983470676,0.26296082983470676
+2025-04-03,years_since_issue,-0.2084215025939008,0.2084215025939008
+2025-04-03,offering_yield,-0.18912253199596357,0.18912253199596357
+2025-04-04,lagged_price,-0.0,0.0
+2025-04-04,sector_Other,-0.0,0.0
+2025-04-04,sector_Management/Holdings,-0.0,0.0
+2025-04-04,sector_Information/Media,-0.0,0.0
+2025-04-04,sector_Healthcare,-0.0,0.0
+2025-04-04,sector_Finance & Insurance,0.0,0.0
+2025-04-04,sector_Energy (Oil & Gas),-0.0,0.0
+2025-04-04,sector_Construction,-0.0,0.0
+2025-04-04,sector_Arts & Entertainment,0.0,0.0
+2025-04-04,sector_Administrative Services,0.0,0.0
+2025-04-07,redeemable,-1.2178205634397735e-17,1.2178205634397735e-17
+2025-04-07,lagged_price,-0.0,0.0
+2025-04-07,sector_Arts & Entertainment,0.0,0.0
+2025-04-07,sector_Management/Holdings,-0.0,0.0
+2025-04-07,sector_Information/Media,-0.0,0.0
+2025-04-07,sector_Healthcare,-0.0,0.0
+2025-04-07,sector_Finance & Insurance,0.0,0.0
+2025-04-07,sector_Energy (Oil & Gas),0.0,0.0
+2025-04-07,sector_Construction,0.0,0.0
+2025-04-07,sector_Administrative Services,-0.0,0.0
+2025-04-08,convertible,0.37789499771028184,0.37789499771028184
+2025-04-08,redeemable,-0.12935529891563005,0.12935529891563005
+2025-04-08,rating_broad_D,-0.035796676779956585,0.035796676779956585
+2025-04-08,lagged_price,0.0,0.0
+2025-04-08,sector_Arts & Entertainment,0.0,0.0
+2025-04-08,sector_Management/Holdings,0.0,0.0
+2025-04-08,sector_Information/Media,-0.0,0.0
+2025-04-08,sector_Healthcare,-0.0,0.0
+2025-04-08,sector_Finance & Insurance,0.0,0.0
+2025-04-08,sector_Energy (Oil & Gas),-0.0,0.0
+2025-04-09,convertible,2.305852279107071,2.305852279107071
+2025-04-09,redeemable,-1.1493119192370136,1.1493119192370136
+2025-04-09,lagged_price,0.9346186703761279,0.9346186703761279
+2025-04-09,rating_broad_C,-0.5899467869819626,0.5899467869819626
+2025-04-09,sector_Management/Holdings,-0.29087229701308964,0.29087229701308964
+2025-04-09,rating_broad_CCC,-0.2662050937145382,0.2662050937145382
+2025-04-09,seniority_Subordinated,-0.20864120294014743,0.20864120294014743
+2025-04-09,sector_Manufacturing,0.1816256597894134,0.1816256597894134
+2025-04-09,coupon_type_label_Variable,-0.12110580983393662,0.12110580983393662
+2025-04-09,years_to_maturity,-0.10385762976373639,0.10385762976373639
+2025-04-10,lagged_price,-0.30753163791290433,0.30753163791290433
+2025-04-10,convertible,-0.2624347371229557,0.2624347371229557
+2025-04-10,redeemable,-0.18019349349183122,0.18019349349183122
+2025-04-10,years_since_issue,0.15291890387061083,0.15291890387061083
+2025-04-10,rating_broad_CCC,0.13518701336206249,0.13518701336206249
+2025-04-10,seniority_Subordinated,-0.03195280005798409,0.03195280005798409
+2025-04-10,seniority_Senior Subordinated,0.016557232800718944,0.016557232800718944
+2025-04-10,years_to_maturity,0.0014935364336239453,0.0014935364336239453
+2025-04-10,sector_Construction,0.0,0.0
+2025-04-10,sector_Information/Media,0.0,0.0
+2025-04-11,lagged_price,-0.0,0.0
+2025-04-11,coupon_type_label_Variable,-0.0,0.0
+2025-04-11,sector_Management/Holdings,-0.0,0.0
+2025-04-11,sector_Information/Media,0.0,0.0
+2025-04-11,sector_Healthcare,-0.0,0.0
+2025-04-11,sector_Finance & Insurance,0.0,0.0
+2025-04-11,sector_Energy (Oil & Gas),0.0,0.0
+2025-04-11,sector_Construction,0.0,0.0
+2025-04-11,sector_Arts & Entertainment,-0.0,0.0
+2025-04-11,sector_Administrative Services,0.0,0.0
+2025-04-14,lagged_price,-2.189652828078509e-17,2.189652828078509e-17
+2025-04-14,coupon_type_label_Variable,-0.0,0.0
+2025-04-14,sector_Manufacturing,-0.0,0.0
+2025-04-14,sector_Management/Holdings,0.0,0.0
+2025-04-14,sector_Information/Media,0.0,0.0
+2025-04-14,sector_Healthcare,-0.0,0.0
+2025-04-14,sector_Finance & Insurance,0.0,0.0
+2025-04-14,sector_Energy (Oil & Gas),0.0,0.0
+2025-04-14,sector_Construction,0.0,0.0
+2025-04-14,sector_Arts & Entertainment,0.0,0.0
+2025-04-15,convertible,-2.3247351586368854,2.3247351586368854
+2025-04-15,years_since_issue,1.1437654885614255,1.1437654885614255
+2025-04-15,lagged_price,-1.0454649672893783,1.0454649672893783
+2025-04-15,redeemable,0.8712620078893898,0.8712620078893898
+2025-04-15,rating_broad_C,0.8221115542603451,0.8221115542603451
+2025-04-15,sector_Management/Holdings,-0.7186146739885553,0.7186146739885553
+2025-04-15,offering_yield,-0.5083934292806023,0.5083934292806023
+2025-04-15,years_to_maturity,-0.4907527819766849,0.4907527819766849
+2025-04-15,seniority_Not Specified,-0.45300667473499623,0.45300667473499623
+2025-04-15,seniority_Subordinated,0.39852702959401215,0.39852702959401215
+2025-04-16,lagged_price,0.0,0.0
+2025-04-16,coupon_type_label_Variable,-0.0,0.0
+2025-04-16,sector_Manufacturing,-0.0,0.0
+2025-04-16,sector_Management/Holdings,0.0,0.0
+2025-04-16,sector_Information/Media,-0.0,0.0
+2025-04-16,sector_Finance & Insurance,0.0,0.0
+2025-04-16,sector_Energy (Oil & Gas),-0.0,0.0
+2025-04-16,sector_Construction,0.0,0.0
+2025-04-16,sector_Arts & Entertainment,-0.0,0.0
+2025-04-16,sector_Administrative Services,0.0,0.0
+2025-04-17,sector_Retail Trade,-0.32428669507741814,0.32428669507741814
+2025-04-17,lagged_price,0.27152936104492104,0.27152936104492104
+2025-04-17,offering_yield,0.12824987765303247,0.12824987765303247
+2025-04-17,redeemable,0.11094454431559368,0.11094454431559368
+2025-04-17,seniority_Senior Subordinated,-0.10823959481540157,0.10823959481540157
+2025-04-17,rating_broad_C,-0.09859079167768207,0.09859079167768207
+2025-04-17,sector_Arts & Entertainment,0.08300588634298793,0.08300588634298793
+2025-04-17,sector_Energy (Oil & Gas),0.07436042650754154,0.07436042650754154
+2025-04-17,sector_Finance & Insurance,0.058265792369394095,0.058265792369394095
+2025-04-17,years_to_maturity,-0.03839927597051374,0.03839927597051374
+2025-04-21,lagged_price,0.0,0.0
+2025-04-21,sector_Arts & Entertainment,0.0,0.0
+2025-04-21,sector_Manufacturing,-0.0,0.0
+2025-04-21,sector_Management/Holdings,0.0,0.0
+2025-04-21,sector_Information/Media,0.0,0.0
+2025-04-21,sector_Healthcare,-0.0,0.0
+2025-04-21,sector_Finance & Insurance,0.0,0.0
+2025-04-21,sector_Energy (Oil & Gas),0.0,0.0
+2025-04-21,sector_Construction,-0.0,0.0
+2025-04-21,sector_Administrative Services,0.0,0.0
+2025-04-22,sector_Management/Holdings,1.7301645292654076e-16,1.7301645292654076e-16
+2025-04-22,lagged_price,0.0,0.0
+2025-04-22,sector_Other,0.0,0.0
+2025-04-22,sector_Information/Media,-0.0,0.0
+2025-04-22,sector_Healthcare,-0.0,0.0
+2025-04-22,sector_Finance & Insurance,0.0,0.0
+2025-04-22,sector_Energy (Oil & Gas),-0.0,0.0
+2025-04-22,sector_Construction,0.0,0.0
+2025-04-22,sector_Arts & Entertainment,-0.0,0.0
+2025-04-22,sector_Administrative Services,0.0,0.0
+2025-04-23,rating_broad_C,2.7618164602043795e-17,2.7618164602043795e-17
+2025-04-23,lagged_price,-0.0,0.0
+2025-04-23,sector_Administrative Services,0.0,0.0
+2025-04-23,sector_Information/Media,-0.0,0.0
+2025-04-23,sector_Healthcare,-0.0,0.0
+2025-04-23,sector_Finance & Insurance,0.0,0.0
+2025-04-23,sector_Energy (Oil & Gas),0.0,0.0
+2025-04-23,sector_Construction,0.0,0.0
+2025-04-23,sector_Arts & Entertainment,0.0,0.0
+2025-04-23,rule_144a,0.0,0.0
+2025-04-24,rating_broad_CCC,-0.6099854504139368,0.6099854504139368
+2025-04-24,sector_Management/Holdings,0.5142585255621915,0.5142585255621915
+2025-04-24,rating_broad_C,-0.4922749586717353,0.4922749586717353
+2025-04-24,redeemable,-0.4861760728987197,0.4861760728987197
+2025-04-24,years_since_issue,-0.4254258761987384,0.4254258761987384
+2025-04-24,sector_Information/Media,-0.4080891087089861,0.4080891087089861
+2025-04-24,seniority_Subordinated,0.21580841497429074,0.21580841497429074
+2025-04-24,sector_Retail Trade,0.19307794265773687,0.19307794265773687
+2025-04-24,offering_yield,0.1809738963074586,0.1809738963074586
+2025-04-24,amount_outstanding,-0.11085738823507552,0.11085738823507552
+2025-04-25,lagged_price,-0.6857129547938872,0.6857129547938872
+2025-04-25,rating_broad_CCC,0.6550218403962013,0.6550218403962013
+2025-04-25,redeemable,-0.5598281798029439,0.5598281798029439
+2025-04-25,years_since_issue,0.42678281405689195,0.42678281405689195
+2025-04-25,years_to_maturity,0.2870006686838894,0.2870006686838894
+2025-04-25,offering_yield,0.26906169012303194,0.26906169012303194
+2025-04-25,rating_broad_C,0.22265922894527532,0.22265922894527532
+2025-04-25,rating_broad_BB,-0.17813941616862936,0.17813941616862936
+2025-04-25,coupon_type_label_Variable,-0.1500119206167305,0.1500119206167305
+2025-04-25,sector_Management/Holdings,0.10674519563891564,0.10674519563891564
+2025-04-28,lagged_price,0.0,0.0
+2025-04-28,sector_Other,0.0,0.0
+2025-04-28,sector_Management/Holdings,0.0,0.0
+2025-04-28,sector_Information/Media,-0.0,0.0
+2025-04-28,sector_Healthcare,-0.0,0.0
+2025-04-28,sector_Finance & Insurance,0.0,0.0
+2025-04-28,sector_Energy (Oil & Gas),-0.0,0.0
+2025-04-28,sector_Construction,0.0,0.0
+2025-04-28,sector_Arts & Entertainment,0.0,0.0
+2025-04-28,sector_Administrative Services,0.0,0.0
+2025-04-29,lagged_price,-0.0,0.0
+2025-04-29,coupon_type_label_Variable,-0.0,0.0
+2025-04-29,sector_Management/Holdings,-0.0,0.0
+2025-04-29,sector_Information/Media,-0.0,0.0
+2025-04-29,sector_Healthcare,-0.0,0.0
+2025-04-29,sector_Finance & Insurance,-0.0,0.0
+2025-04-29,sector_Energy (Oil & Gas),-0.0,0.0
+2025-04-29,sector_Construction,-0.0,0.0
+2025-04-29,sector_Arts & Entertainment,0.0,0.0
+2025-04-29,sector_Administrative Services,0.0,0.0
+2025-04-30,convertible,7.923740273191306,7.923740273191306
+2025-04-30,lagged_price,0.0,0.0
+2025-04-30,sector_Arts & Entertainment,0.0,0.0
+2025-04-30,sector_Management/Holdings,-0.0,0.0
+2025-04-30,sector_Information/Media,-0.0,0.0
+2025-04-30,sector_Healthcare,-0.0,0.0
+2025-04-30,sector_Finance & Insurance,0.0,0.0
+2025-04-30,sector_Energy (Oil & Gas),-0.0,0.0
+2025-04-30,sector_Construction,0.0,0.0
+2025-04-30,sector_Administrative Services,0.0,0.0
+2025-05-01,convertible,-3.5456202483942167,3.5456202483942167
+2025-05-01,lagged_price,-0.0,0.0
+2025-05-01,sector_Arts & Entertainment,0.0,0.0
+2025-05-01,sector_Management/Holdings,-0.0,0.0
+2025-05-01,sector_Information/Media,-0.0,0.0
+2025-05-01,sector_Healthcare,0.0,0.0
+2025-05-01,sector_Finance & Insurance,0.0,0.0
+2025-05-01,sector_Energy (Oil & Gas),0.0,0.0
+2025-05-01,sector_Construction,0.0,0.0
+2025-05-01,sector_Administrative Services,0.0,0.0
+2025-05-02,lagged_price,-7.8768624450908495,7.8768624450908495
+2025-05-02,years_to_maturity,-4.540350839108906,4.540350839108906
+2025-05-02,seniority_Not Specified,-3.281348504657932,3.281348504657932
+2025-05-02,coupon_type_label_Variable,3.09107262121764,3.09107262121764
+2025-05-02,offering_yield,3.0880542754289584,3.0880542754289584
+2025-05-02,rating_broad_CCC,-1.7966925782659833,1.7966925782659833
+2025-05-02,sector_Retail Trade,-1.6413594489600545,1.6413594489600545
+2025-05-02,sector_Information/Media,-1.280555609591755,1.280555609591755
+2025-05-02,sector_Energy (Oil & Gas),-1.2503879979921722,1.2503879979921722
+2025-05-02,seniority_Senior Subordinated,-1.1113370927302553,1.1113370927302553
+2025-05-05,redeemable,0.7133009786920134,0.7133009786920134
+2025-05-05,rating_broad_C,-0.61120419075416,0.61120419075416
+2025-05-05,convertible,-0.16313682007714383,0.16313682007714383
+2025-05-05,years_to_maturity,-0.07103261171763972,0.07103261171763972
+2025-05-05,sector_Manufacturing,-0.015829471697531888,0.015829471697531888
+2025-05-05,sector_Arts & Entertainment,0.0,0.0
+2025-05-05,sector_Management/Holdings,0.0,0.0
+2025-05-05,sector_Information/Media,-0.0,0.0
+2025-05-05,sector_Finance & Insurance,0.0,0.0
+2025-05-05,sector_Energy (Oil & Gas),0.0,0.0
+2025-05-06,sector_Retail Trade,-0.4490726054400438,0.4490726054400438
+2025-05-06,redeemable,-0.24949746963537825,0.24949746963537825
+2025-05-06,lagged_price,-0.0,0.0
+2025-05-06,sector_Construction,0.0,0.0
+2025-05-06,sector_Manufacturing,0.0,0.0
+2025-05-06,sector_Management/Holdings,-0.0,0.0
+2025-05-06,sector_Information/Media,0.0,0.0
+2025-05-06,sector_Finance & Insurance,-0.0,0.0
+2025-05-06,sector_Energy (Oil & Gas),0.0,0.0
+2025-05-06,sector_Arts & Entertainment,0.0,0.0
+2025-05-07,redeemable,0.9570084328173453,0.9570084328173453
+2025-05-07,rating_broad_CCC,-0.014830650273502739,0.014830650273502739
+2025-05-07,lagged_price,0.0,0.0
+2025-05-07,sector_Arts & Entertainment,0.0,0.0
+2025-05-07,sector_Management/Holdings,0.0,0.0
+2025-05-07,sector_Information/Media,0.0,0.0
+2025-05-07,sector_Healthcare,0.0,0.0
+2025-05-07,sector_Finance & Insurance,0.0,0.0
+2025-05-07,sector_Energy (Oil & Gas),-0.0,0.0
+2025-05-07,sector_Construction,0.0,0.0
+2025-05-08,rating_broad_CCC,-5.963251927362407e-17,5.963251927362407e-17
+2025-05-08,lagged_price,0.0,0.0
+2025-05-08,sector_Administrative Services,0.0,0.0
+2025-05-08,sector_Management/Holdings,-0.0,0.0
+2025-05-08,sector_Information/Media,0.0,0.0
+2025-05-08,sector_Finance & Insurance,0.0,0.0
+2025-05-08,sector_Energy (Oil & Gas),0.0,0.0
+2025-05-08,sector_Construction,0.0,0.0
+2025-05-08,sector_Arts & Entertainment,0.0,0.0
+2025-05-08,rule_144a,0.0,0.0
+2025-05-09,rating_broad_CCC,-0.5383013671075502,0.5383013671075502
+2025-05-09,redeemable,0.432369338688521,0.432369338688521
+2025-05-09,sector_Retail Trade,0.42714747547875553,0.42714747547875553
+2025-05-09,years_since_issue,-0.3470063777525811,0.3470063777525811
+2025-05-09,rating_broad_C,-0.31613163346898643,0.31613163346898643
+2025-05-09,sector_Manufacturing,-0.3039643526746795,0.3039643526746795
+2025-05-09,lagged_price,0.28562930400895403,0.28562930400895403
+2025-05-09,years_to_maturity,-0.20869651175457027,0.20869651175457027
+2025-05-09,rating_broad_BB,0.19393450098413273,0.19393450098413273
+2025-05-09,seniority_Senior Unsecured,-0.13289604278153552,0.13289604278153552
+2025-05-12,rating_broad_CCC,-3.36319737256589e-17,3.36319737256589e-17
+2025-05-12,lagged_price,0.0,0.0
+2025-05-12,sector_Administrative Services,-0.0,0.0
+2025-05-12,sector_Management/Holdings,-0.0,0.0
+2025-05-12,sector_Information/Media,0.0,0.0
+2025-05-12,sector_Finance & Insurance,0.0,0.0
+2025-05-12,sector_Energy (Oil & Gas),0.0,0.0
+2025-05-12,sector_Construction,0.0,0.0
+2025-05-12,sector_Arts & Entertainment,-0.0,0.0
+2025-05-12,rule_144a,-0.0,0.0
+2025-05-13,rating_broad_CCC,-3.0890347567887465e-17,3.0890347567887465e-17
+2025-05-13,lagged_price,0.0,0.0
+2025-05-13,sector_Administrative Services,-0.0,0.0
+2025-05-13,sector_Management/Holdings,-0.0,0.0
+2025-05-13,sector_Information/Media,0.0,0.0
+2025-05-13,sector_Healthcare,0.0,0.0
+2025-05-13,sector_Finance & Insurance,-0.0,0.0
+2025-05-13,sector_Energy (Oil & Gas),0.0,0.0
+2025-05-13,sector_Construction,0.0,0.0
+2025-05-13,sector_Arts & Entertainment,-0.0,0.0
+2025-05-14,lagged_price,0.0,0.0
+2025-05-14,sector_Administrative Services,-0.0,0.0
+2025-05-14,sector_Management/Holdings,-0.0,0.0
+2025-05-14,sector_Information/Media,-0.0,0.0
+2025-05-14,sector_Finance & Insurance,0.0,0.0
+2025-05-14,sector_Energy (Oil & Gas),-0.0,0.0
+2025-05-14,sector_Construction,0.0,0.0
+2025-05-14,sector_Arts & Entertainment,0.0,0.0
+2025-05-14,rule_144a,-0.0,0.0
+2025-05-14,sector_Other,0.0,0.0
+2025-05-15,convertible,-2.7545060472972228e-17,2.7545060472972228e-17
+2025-05-15,lagged_price,0.0,0.0
+2025-05-15,sector_Arts & Entertainment,0.0,0.0
+2025-05-15,sector_Management/Holdings,-0.0,0.0
+2025-05-15,sector_Information/Media,0.0,0.0
+2025-05-15,sector_Healthcare,0.0,0.0
+2025-05-15,sector_Finance & Insurance,-0.0,0.0
+2025-05-15,sector_Energy (Oil & Gas),0.0,0.0
+2025-05-15,sector_Construction,-0.0,0.0
+2025-05-15,sector_Administrative Services,-0.0,0.0
+2025-05-16,lagged_price,0.0,0.0
+2025-05-16,coupon_type_label_Variable,0.0,0.0
+2025-05-16,sector_Manufacturing,-0.0,0.0
+2025-05-16,sector_Management/Holdings,0.0,0.0
+2025-05-16,sector_Information/Media,0.0,0.0
+2025-05-16,sector_Finance & Insurance,-0.0,0.0
+2025-05-16,sector_Energy (Oil & Gas),0.0,0.0
+2025-05-16,sector_Construction,0.0,0.0
+2025-05-16,sector_Arts & Entertainment,-0.0,0.0
+2025-05-16,sector_Administrative Services,-0.0,0.0
+2025-05-19,rating_broad_CCC,-0.0777702918004281,0.0777702918004281
+2025-05-19,seniority_Senior Secured,-0.0023711011980411187,0.0023711011980411187
+2025-05-19,lagged_price,-0.0,0.0
+2025-05-19,sector_Administrative Services,-0.0,0.0
+2025-05-19,sector_Management/Holdings,-0.0,0.0
+2025-05-19,sector_Information/Media,0.0,0.0
+2025-05-19,sector_Finance & Insurance,0.0,0.0
+2025-05-19,sector_Energy (Oil & Gas),-0.0,0.0
+2025-05-19,sector_Construction,-0.0,0.0
+2025-05-19,sector_Arts & Entertainment,0.0,0.0
+2025-05-20,lagged_price,0.0,0.0
+2025-05-20,coupon_type_label_Variable,0.0,0.0
+2025-05-20,sector_Management/Holdings,0.0,0.0
+2025-05-20,sector_Information/Media,0.0,0.0
+2025-05-20,sector_Healthcare,0.0,0.0
+2025-05-20,sector_Finance & Insurance,-0.0,0.0
+2025-05-20,sector_Energy (Oil & Gas),0.0,0.0
+2025-05-20,sector_Construction,-0.0,0.0
+2025-05-20,sector_Arts & Entertainment,0.0,0.0
+2025-05-20,sector_Administrative Services,-0.0,0.0
+2025-05-21,lagged_price,0.0,0.0
+2025-05-21,sector_Arts & Entertainment,0.0,0.0
+2025-05-21,sector_Manufacturing,-0.0,0.0
+2025-05-21,sector_Management/Holdings,-0.0,0.0
+2025-05-21,sector_Information/Media,0.0,0.0
+2025-05-21,sector_Healthcare,0.0,0.0
+2025-05-21,sector_Finance & Insurance,-0.0,0.0
+2025-05-21,sector_Energy (Oil & Gas),0.0,0.0
+2025-05-21,sector_Construction,0.0,0.0
+2025-05-21,sector_Administrative Services,-0.0,0.0
+2025-05-22,rating_broad_D,-0.015780906731007516,0.015780906731007516
+2025-05-22,lagged_price,0.0,0.0
+2025-05-22,sector_Administrative Services,-0.0,0.0
+2025-05-22,sector_Management/Holdings,-0.0,0.0
+2025-05-22,sector_Information/Media,0.0,0.0
+2025-05-22,sector_Healthcare,-0.0,0.0
+2025-05-22,sector_Finance & Insurance,0.0,0.0
+2025-05-22,sector_Energy (Oil & Gas),0.0,0.0
+2025-05-22,sector_Construction,-0.0,0.0
+2025-05-22,sector_Arts & Entertainment,0.0,0.0
+2025-05-23,rating_broad_C,-0.6534823340077717,0.6534823340077717
+2025-05-23,rating_broad_CCC,0.16226589258841748,0.16226589258841748
+2025-05-23,lagged_price,0.0,0.0
+2025-05-23,rule_144a,0.0,0.0
+2025-05-23,sector_Information/Media,0.0,0.0
+2025-05-23,sector_Finance & Insurance,-0.0,0.0
+2025-05-23,sector_Energy (Oil & Gas),-0.0,0.0
+2025-05-23,sector_Construction,0.0,0.0
+2025-05-23,sector_Arts & Entertainment,-0.0,0.0
+2025-05-23,sector_Administrative Services,-0.0,0.0
+2025-05-27,lagged_price,-0.0,0.0
+2025-05-27,sector_Arts & Entertainment,-0.0,0.0
+2025-05-27,sector_Manufacturing,-0.0,0.0
+2025-05-27,sector_Management/Holdings,-0.0,0.0
+2025-05-27,sector_Information/Media,0.0,0.0
+2025-05-27,sector_Healthcare,0.0,0.0
+2025-05-27,sector_Finance & Insurance,-0.0,0.0
+2025-05-27,sector_Energy (Oil & Gas),0.0,0.0
+2025-05-27,sector_Construction,0.0,0.0
+2025-05-27,sector_Administrative Services,-0.0,0.0
+2025-05-28,convertible,0.4181480776282109,0.4181480776282109
+2025-05-28,redeemable,-0.16769331771237278,0.16769331771237278
+2025-05-28,rating_broad_BB,-0.016303388279176042,0.016303388279176042
+2025-05-28,sector_Administrative Services,-0.0,0.0
+2025-05-28,sector_Information/Media,0.0,0.0
+2025-05-28,sector_Healthcare,-0.0,0.0
+2025-05-28,sector_Finance & Insurance,-0.0,0.0
+2025-05-28,sector_Energy (Oil & Gas),0.0,0.0
+2025-05-28,sector_Construction,-0.0,0.0
+2025-05-28,sector_Arts & Entertainment,-0.0,0.0
+2025-05-29,lagged_price,-0.0,0.0
+2025-05-29,sector_Administrative Services,-0.0,0.0
+2025-05-29,sector_Management/Holdings,-0.0,0.0
+2025-05-29,sector_Information/Media,0.0,0.0
+2025-05-29,sector_Finance & Insurance,-0.0,0.0
+2025-05-29,sector_Energy (Oil & Gas),0.0,0.0
+2025-05-29,sector_Construction,-0.0,0.0
+2025-05-29,sector_Arts & Entertainment,0.0,0.0
+2025-05-29,rule_144a,0.0,0.0
+2025-05-29,sector_Other,-0.0,0.0
+2025-05-30,lagged_price,-0.0,0.0
+2025-05-30,sector_Other,-0.0,0.0
+2025-05-30,sector_Management/Holdings,-0.0,0.0
+2025-05-30,sector_Information/Media,0.0,0.0
+2025-05-30,sector_Healthcare,-0.0,0.0
+2025-05-30,sector_Finance & Insurance,-0.0,0.0
+2025-05-30,sector_Energy (Oil & Gas),-0.0,0.0
+2025-05-30,sector_Construction,-0.0,0.0
+2025-05-30,sector_Arts & Entertainment,-0.0,0.0
+2025-05-30,sector_Administrative Services,-0.0,0.0
+2025-06-02,lagged_price,-0.0,0.0
+2025-06-02,sector_Other,-0.0,0.0
+2025-06-02,sector_Management/Holdings,0.0,0.0
+2025-06-02,sector_Information/Media,0.0,0.0
+2025-06-02,sector_Healthcare,0.0,0.0
+2025-06-02,sector_Finance & Insurance,0.0,0.0
+2025-06-02,sector_Energy (Oil & Gas),0.0,0.0
+2025-06-02,sector_Construction,0.0,0.0
+2025-06-02,sector_Arts & Entertainment,-0.0,0.0
+2025-06-02,sector_Administrative Services,-0.0,0.0
+2025-06-03,convertible,5.499662106901189,5.499662106901189
+2025-06-03,redeemable,-0.9124825011392242,0.9124825011392242
+2025-06-03,lagged_price,0.0,0.0
+2025-06-03,sector_Construction,-0.0,0.0
+2025-06-03,sector_Manufacturing,0.0,0.0
+2025-06-03,sector_Management/Holdings,-0.0,0.0
+2025-06-03,sector_Information/Media,0.0,0.0
+2025-06-03,sector_Healthcare,0.0,0.0
+2025-06-03,sector_Finance & Insurance,-0.0,0.0
+2025-06-03,sector_Energy (Oil & Gas),-0.0,0.0
+2025-06-04,redeemable,1.963863189460908e-17,1.963863189460908e-17
+2025-06-04,lagged_price,-0.0,0.0
+2025-06-04,sector_Arts & Entertainment,-0.0,0.0
+2025-06-04,sector_Management/Holdings,-0.0,0.0
+2025-06-04,sector_Information/Media,0.0,0.0
+2025-06-04,sector_Healthcare,0.0,0.0
+2025-06-04,sector_Finance & Insurance,-0.0,0.0
+2025-06-04,sector_Energy (Oil & Gas),-0.0,0.0
+2025-06-04,sector_Construction,0.0,0.0
+2025-06-04,sector_Administrative Services,-0.0,0.0
+2025-06-05,lagged_price,-0.0,0.0
+2025-06-05,coupon_type_label_Variable,-0.0,0.0
+2025-06-05,sector_Management/Holdings,-0.0,0.0
+2025-06-05,sector_Information/Media,0.0,0.0
+2025-06-05,sector_Healthcare,0.0,0.0
+2025-06-05,sector_Finance & Insurance,-0.0,0.0
+2025-06-05,sector_Energy (Oil & Gas),-0.0,0.0
+2025-06-05,sector_Construction,0.0,0.0
+2025-06-05,sector_Arts & Entertainment,0.0,0.0
+2025-06-05,sector_Administrative Services,-0.0,0.0
+2025-06-06,lagged_price,-7.556476421049359,7.556476421049359
+2025-06-06,seniority_Not Specified,-5.718579876403265,5.718579876403265
+2025-06-06,coupon_type_label_Variable,5.4854793055936835,5.4854793055936835
+2025-06-06,years_to_maturity,-5.250388035870022,5.250388035870022
+2025-06-06,rating_broad_CCC,-3.386300928437247,3.386300928437247
+2025-06-06,offering_yield,2.163866619942811,2.163866619942811
+2025-06-06,redeemable,2.1129118651055148,2.1129118651055148
+2025-06-06,years_since_issue,1.405342770219457,1.405342770219457
+2025-06-06,sector_Retail Trade,-1.3432055640547913,1.3432055640547913
+2025-06-06,sector_Management/Holdings,1.1989781543103004,1.1989781543103004
+2025-06-09,years_since_issue,-1.2600730969202377e-17,1.2600730969202377e-17
+2025-06-09,lagged_price,0.0,0.0
+2025-06-09,sector_Administrative Services,-0.0,0.0
+2025-06-09,sector_Information/Media,-0.0,0.0
+2025-06-09,sector_Healthcare,0.0,0.0
+2025-06-09,sector_Finance & Insurance,0.0,0.0
+2025-06-09,sector_Energy (Oil & Gas),0.0,0.0
+2025-06-09,sector_Construction,0.0,0.0
+2025-06-09,sector_Arts & Entertainment,0.0,0.0
+2025-06-09,rule_144a,0.0,0.0
+2025-06-10,redeemable,-1.7992842950425425,1.7992842950425425
+2025-06-10,lagged_price,-1.455021264484031,1.455021264484031
+2025-06-10,sector_Management/Holdings,-1.2430012950612457,1.2430012950612457
+2025-06-10,rating_broad_D,-1.2114438286107954,1.2114438286107954
+2025-06-10,offering_yield,0.993306718336407,0.993306718336407
+2025-06-10,sector_Transportation,0.6722973258035178,0.6722973258035178
+2025-06-10,years_since_issue,-0.6146439463770123,0.6146439463770123
+2025-06-10,rating_broad_C,-0.5464496417236179,0.5464496417236179
+2025-06-10,seniority_Not Specified,0.471964669113577,0.471964669113577
+2025-06-10,coupon_type_label_Variable,-0.47148751329322347,0.47148751329322347
+2025-06-11,lagged_price,-0.0,0.0
+2025-06-11,sector_Arts & Entertainment,0.0,0.0
+2025-06-11,sector_Manufacturing,0.0,0.0
+2025-06-11,sector_Management/Holdings,0.0,0.0
+2025-06-11,sector_Information/Media,-0.0,0.0
+2025-06-11,sector_Healthcare,0.0,0.0
+2025-06-11,sector_Finance & Insurance,-0.0,0.0
+2025-06-11,sector_Energy (Oil & Gas),0.0,0.0
+2025-06-11,sector_Construction,0.0,0.0
+2025-06-11,sector_Administrative Services,0.0,0.0
+2025-06-12,rating_broad_CCC,-3.973848526997736e-17,3.973848526997736e-17
+2025-06-12,lagged_price,-0.0,0.0
+2025-06-12,sector_Administrative Services,0.0,0.0
+2025-06-12,sector_Management/Holdings,0.0,0.0
+2025-06-12,sector_Information/Media,-0.0,0.0
+2025-06-12,sector_Healthcare,0.0,0.0
+2025-06-12,sector_Finance & Insurance,-0.0,0.0
+2025-06-12,sector_Energy (Oil & Gas),-0.0,0.0
+2025-06-12,sector_Construction,0.0,0.0
+2025-06-12,sector_Arts & Entertainment,0.0,0.0
+2025-06-13,lagged_price,-0.0,0.0
+2025-06-13,coupon_type_label_Variable,-0.0,0.0
+2025-06-13,sector_Management/Holdings,0.0,0.0
+2025-06-13,sector_Information/Media,0.0,0.0
+2025-06-13,sector_Healthcare,0.0,0.0
+2025-06-13,sector_Finance & Insurance,-0.0,0.0
+2025-06-13,sector_Energy (Oil & Gas),-0.0,0.0
+2025-06-13,sector_Construction,0.0,0.0
+2025-06-13,sector_Arts & Entertainment,0.0,0.0
+2025-06-13,sector_Administrative Services,0.0,0.0
+2025-06-16,lagged_price,-0.0,0.0
+2025-06-16,sector_Arts & Entertainment,0.0,0.0
+2025-06-16,sector_Manufacturing,0.0,0.0
+2025-06-16,sector_Management/Holdings,0.0,0.0
+2025-06-16,sector_Information/Media,-0.0,0.0
+2025-06-16,sector_Healthcare,0.0,0.0
+2025-06-16,sector_Finance & Insurance,-0.0,0.0
+2025-06-16,sector_Energy (Oil & Gas),-0.0,0.0
+2025-06-16,sector_Construction,0.0,0.0
+2025-06-16,sector_Administrative Services,0.0,0.0
+2025-06-17,seniority_Senior Subordinated,-1.501298752171592e-17,1.501298752171592e-17
+2025-06-17,lagged_price,-0.0,0.0
+2025-06-17,sector_Administrative Services,0.0,0.0
+2025-06-17,sector_Information/Media,-0.0,0.0
+2025-06-17,sector_Healthcare,0.0,0.0
+2025-06-17,sector_Finance & Insurance,0.0,0.0
+2025-06-17,sector_Energy (Oil & Gas),-0.0,0.0
+2025-06-17,sector_Construction,0.0,0.0
+2025-06-17,sector_Arts & Entertainment,0.0,0.0
+2025-06-17,rule_144a,-0.0,0.0
+2025-06-18,lagged_price,0.0,0.0
+2025-06-18,sector_Arts & Entertainment,-0.0,0.0
+2025-06-18,sector_Manufacturing,-0.0,0.0
+2025-06-18,sector_Management/Holdings,0.0,0.0
+2025-06-18,sector_Information/Media,-0.0,0.0
+2025-06-18,sector_Healthcare,0.0,0.0
+2025-06-18,sector_Finance & Insurance,0.0,0.0
+2025-06-18,sector_Energy (Oil & Gas),0.0,0.0
+2025-06-18,sector_Construction,-0.0,0.0
+2025-06-18,sector_Administrative Services,0.0,0.0
+2025-06-20,convertible,1.692305077792982e-17,1.692305077792982e-17
+2025-06-20,lagged_price,0.0,0.0
+2025-06-20,sector_Administrative Services,-0.0,0.0
+2025-06-20,sector_Management/Holdings,0.0,0.0
+2025-06-20,sector_Information/Media,-0.0,0.0
+2025-06-20,sector_Finance & Insurance,-0.0,0.0
+2025-06-20,sector_Energy (Oil & Gas),-0.0,0.0
+2025-06-20,sector_Construction,-0.0,0.0
+2025-06-20,sector_Arts & Entertainment,-0.0,0.0
+2025-06-20,rule_144a,0.0,0.0
+2025-06-23,convertible,5.404911222123221,5.404911222123221
+2025-06-23,lagged_price,0.0,0.0
+2025-06-23,sector_Construction,-0.0,0.0
+2025-06-23,sector_Manufacturing,0.0,0.0
+2025-06-23,sector_Management/Holdings,-0.0,0.0
+2025-06-23,sector_Information/Media,-0.0,0.0
+2025-06-23,sector_Healthcare,0.0,0.0
+2025-06-23,sector_Finance & Insurance,-0.0,0.0
+2025-06-23,sector_Energy (Oil & Gas),0.0,0.0
+2025-06-23,sector_Arts & Entertainment,-0.0,0.0
+2025-06-24,convertible,-0.3143943026962388,0.3143943026962388
+2025-06-24,rating_broad_CCC,-0.31293543493293174,0.31293543493293174
+2025-06-24,years_since_issue,-0.2773967506423718,0.2773967506423718
+2025-06-24,redeemable,0.21861717012290294,0.21861717012290294
+2025-06-24,seniority_Senior Secured,-0.18032793839998798,0.18032793839998798
+2025-06-24,sector_Utilities,-0.141156329872507,0.141156329872507
+2025-06-24,seniority_Subordinated,-0.12629238594427677,0.12629238594427677
+2025-06-24,seniority_Senior Unsecured,0.08181968542933299,0.08181968542933299
+2025-06-24,years_to_maturity,-0.07425192506324778,0.07425192506324778
+2025-06-24,offering_yield,-0.07322334560039785,0.07322334560039785
+2025-06-25,convertible,-4.154147142463144e-17,4.154147142463144e-17
+2025-06-25,lagged_price,-0.0,0.0
+2025-06-25,sector_Arts & Entertainment,-0.0,0.0
+2025-06-25,sector_Management/Holdings,0.0,0.0
+2025-06-25,sector_Information/Media,0.0,0.0
+2025-06-25,sector_Healthcare,0.0,0.0
+2025-06-25,sector_Finance & Insurance,-0.0,0.0
+2025-06-25,sector_Energy (Oil & Gas),-0.0,0.0
+2025-06-25,sector_Construction,0.0,0.0
+2025-06-25,sector_Administrative Services,-0.0,0.0
+2025-06-26,lagged_price,-0.0,0.0
+2025-06-26,sector_Administrative Services,-0.0,0.0
+2025-06-26,sector_Management/Holdings,0.0,0.0
+2025-06-26,sector_Information/Media,0.0,0.0
+2025-06-26,sector_Finance & Insurance,0.0,0.0
+2025-06-26,sector_Energy (Oil & Gas),-0.0,0.0
+2025-06-26,sector_Construction,0.0,0.0
+2025-06-26,sector_Arts & Entertainment,-0.0,0.0
+2025-06-26,rule_144a,-0.0,0.0
+2025-06-26,sector_Other,0.0,0.0
+2025-06-27,convertible,-2.140721807874277,2.140721807874277
+2025-06-27,rating_broad_CCC,0.20459928120346793,0.20459928120346793
+2025-06-27,lagged_price,-0.0,0.0
+2025-06-27,sector_Administrative Services,-0.0,0.0
+2025-06-27,sector_Information/Media,-0.0,0.0
+2025-06-27,sector_Healthcare,0.0,0.0
+2025-06-27,sector_Finance & Insurance,-0.0,0.0
+2025-06-27,sector_Energy (Oil & Gas),-0.0,0.0
+2025-06-27,sector_Construction,0.0,0.0
+2025-06-27,sector_Arts & Entertainment,-0.0,0.0
+2025-06-30,lagged_price,-0.0,0.0
+2025-06-30,coupon_type_label_Variable,-0.0,0.0
+2025-06-30,sector_Manufacturing,0.0,0.0
+2025-06-30,sector_Management/Holdings,0.0,0.0
+2025-06-30,sector_Information/Media,-0.0,0.0
+2025-06-30,sector_Finance & Insurance,-0.0,0.0
+2025-06-30,sector_Energy (Oil & Gas),-0.0,0.0
+2025-06-30,sector_Construction,0.0,0.0
+2025-06-30,sector_Arts & Entertainment,0.0,0.0
+2025-06-30,sector_Administrative Services,0.0,0.0
+2025-07-01,lagged_price,-0.0,0.0
+2025-07-01,sector_Arts & Entertainment,0.0,0.0
+2025-07-01,sector_Manufacturing,0.0,0.0
+2025-07-01,sector_Management/Holdings,-0.0,0.0
+2025-07-01,sector_Information/Media,-0.0,0.0
+2025-07-01,sector_Healthcare,0.0,0.0
+2025-07-01,sector_Finance & Insurance,0.0,0.0
+2025-07-01,sector_Energy (Oil & Gas),-0.0,0.0
+2025-07-01,sector_Construction,-0.0,0.0
+2025-07-01,sector_Administrative Services,-0.0,0.0
+2025-07-02,rating_broad_D,-0.5578717409954292,0.5578717409954292
+2025-07-02,sector_Retail Trade,0.5389563897893603,0.5389563897893603
+2025-07-02,rating_broad_CCC,0.33159145589106287,0.33159145589106287
+2025-07-02,redeemable,0.11529611279670324,0.11529611279670324
+2025-07-02,lagged_price,-0.0,0.0
+2025-07-02,sector_Arts & Entertainment,-0.0,0.0
+2025-07-02,sector_Information/Media,-0.0,0.0
+2025-07-02,sector_Healthcare,0.0,0.0
+2025-07-02,sector_Finance & Insurance,-0.0,0.0
+2025-07-02,sector_Energy (Oil & Gas),0.0,0.0
+2025-07-03,lagged_price,-0.0,0.0
+2025-07-03,sector_Other,0.0,0.0
+2025-07-03,sector_Management/Holdings,0.0,0.0
+2025-07-03,sector_Information/Media,-0.0,0.0
+2025-07-03,sector_Healthcare,0.0,0.0
+2025-07-03,sector_Finance & Insurance,0.0,0.0
+2025-07-03,sector_Energy (Oil & Gas),-0.0,0.0
+2025-07-03,sector_Construction,0.0,0.0
+2025-07-03,sector_Arts & Entertainment,0.0,0.0
+2025-07-03,sector_Administrative Services,0.0,0.0
+2025-07-07,rating_broad_CCC,-1.3794724942988272e-17,1.3794724942988272e-17
+2025-07-07,lagged_price,0.0,0.0
+2025-07-07,sector_Administrative Services,0.0,0.0
+2025-07-07,sector_Management/Holdings,-0.0,0.0
+2025-07-07,sector_Information/Media,-0.0,0.0
+2025-07-07,sector_Healthcare,0.0,0.0
+2025-07-07,sector_Finance & Insurance,0.0,0.0
+2025-07-07,sector_Energy (Oil & Gas),0.0,0.0
+2025-07-07,sector_Construction,0.0,0.0
+2025-07-07,sector_Arts & Entertainment,0.0,0.0
+2025-07-08,redeemable,3.79588882515828e-17,3.79588882515828e-17
+2025-07-08,lagged_price,0.0,0.0
+2025-07-08,sector_Arts & Entertainment,0.0,0.0
+2025-07-08,sector_Management/Holdings,-0.0,0.0
+2025-07-08,sector_Information/Media,-0.0,0.0
+2025-07-08,sector_Healthcare,0.0,0.0
+2025-07-08,sector_Finance & Insurance,0.0,0.0
+2025-07-08,sector_Energy (Oil & Gas),-0.0,0.0
+2025-07-08,sector_Construction,0.0,0.0
+2025-07-08,sector_Administrative Services,0.0,0.0
+2025-07-09,seniority_Subordinated,-0.015397637887677885,0.015397637887677885
+2025-07-09,lagged_price,0.0,0.0
+2025-07-09,sector_Administrative Services,0.0,0.0
+2025-07-09,sector_Information/Media,0.0,0.0
+2025-07-09,sector_Healthcare,0.0,0.0
+2025-07-09,sector_Finance & Insurance,-0.0,0.0
+2025-07-09,sector_Energy (Oil & Gas),-0.0,0.0
+2025-07-09,sector_Construction,0.0,0.0
+2025-07-09,sector_Arts & Entertainment,-0.0,0.0
+2025-07-09,rule_144a,-0.0,0.0
+2025-07-10,rating_broad_CC,-0.21254669177948124,0.21254669177948124
+2025-07-10,rule_144a,-0.20329327214265944,0.20329327214265944
+2025-07-10,redeemable,0.15429024736625085,0.15429024736625085
+2025-07-10,seniority_Senior Subordinated,-0.041066488672994395,0.041066488672994395
+2025-07-10,years_to_maturity,-0.013267198689861382,0.013267198689861382
+2025-07-10,lagged_price,0.0,0.0
+2025-07-10,sector_Arts & Entertainment,0.0,0.0
+2025-07-10,sector_Information/Media,-0.0,0.0
+2025-07-10,sector_Healthcare,0.0,0.0
+2025-07-10,sector_Finance & Insurance,-0.0,0.0
+2025-07-11,redeemable,0.03330319756283797,0.03330319756283797
+2025-07-11,rating_broad_CCC,-0.013183038454415605,0.013183038454415605
+2025-07-11,lagged_price,0.0,0.0
+2025-07-11,sector_Arts & Entertainment,0.0,0.0
+2025-07-11,sector_Manufacturing,-0.0,0.0
+2025-07-11,sector_Management/Holdings,0.0,0.0
+2025-07-11,sector_Information/Media,-0.0,0.0
+2025-07-11,sector_Finance & Insurance,-0.0,0.0
+2025-07-11,sector_Energy (Oil & Gas),-0.0,0.0
+2025-07-11,sector_Construction,0.0,0.0
+2025-07-14,lagged_price,0.0,0.0
+2025-07-14,coupon_type_label_Variable,-0.0,0.0
+2025-07-14,sector_Management/Holdings,0.0,0.0
+2025-07-14,sector_Information/Media,-0.0,0.0
+2025-07-14,sector_Healthcare,0.0,0.0
+2025-07-14,sector_Finance & Insurance,-0.0,0.0
+2025-07-14,sector_Energy (Oil & Gas),-0.0,0.0
+2025-07-14,sector_Construction,-0.0,0.0
+2025-07-14,sector_Arts & Entertainment,-0.0,0.0
+2025-07-14,sector_Administrative Services,-0.0,0.0
+2025-07-15,lagged_price,0.0,0.0
+2025-07-15,sector_Arts & Entertainment,0.0,0.0
+2025-07-15,sector_Management/Holdings,0.0,0.0
+2025-07-15,sector_Information/Media,-0.0,0.0
+2025-07-15,sector_Healthcare,0.0,0.0
+2025-07-15,sector_Finance & Insurance,-0.0,0.0
+2025-07-15,sector_Energy (Oil & Gas),-0.0,0.0
+2025-07-15,sector_Construction,0.0,0.0
+2025-07-15,rule_144a,-0.0,0.0
+2025-07-15,sector_Other,0.0,0.0
+2025-07-16,rating_broad_CCC,-0.10003709422304487,0.10003709422304487
+2025-07-16,redeemable,0.08280221699407422,0.08280221699407422
+2025-07-16,lagged_price,0.0,0.0
+2025-07-16,sector_Arts & Entertainment,-0.0,0.0
+2025-07-16,sector_Management/Holdings,0.0,0.0
+2025-07-16,sector_Information/Media,-0.0,0.0
+2025-07-16,sector_Healthcare,0.0,0.0
+2025-07-16,sector_Finance & Insurance,0.0,0.0
+2025-07-16,sector_Energy (Oil & Gas),-0.0,0.0
+2025-07-16,sector_Construction,0.0,0.0
+2025-07-17,lagged_price,0.0,0.0
+2025-07-17,coupon_type_label_Variable,-0.0,0.0
+2025-07-17,sector_Manufacturing,-0.0,0.0
+2025-07-17,sector_Management/Holdings,0.0,0.0
+2025-07-17,sector_Information/Media,0.0,0.0
+2025-07-17,sector_Finance & Insurance,-0.0,0.0
+2025-07-17,sector_Energy (Oil & Gas),-0.0,0.0
+2025-07-17,sector_Construction,0.0,0.0
+2025-07-17,sector_Arts & Entertainment,-0.0,0.0
+2025-07-17,sector_Administrative Services,0.0,0.0
+2025-07-18,lagged_price,0.0,0.0
+2025-07-18,coupon_type_label_Variable,-0.0,0.0
+2025-07-18,sector_Other,0.0,0.0
+2025-07-18,sector_Manufacturing,0.0,0.0
+2025-07-18,sector_Management/Holdings,-0.0,0.0
+2025-07-18,sector_Information/Media,-0.0,0.0
+2025-07-18,sector_Finance & Insurance,-0.0,0.0
+2025-07-18,sector_Energy (Oil & Gas),-0.0,0.0
+2025-07-18,sector_Construction,0.0,0.0
+2025-07-18,sector_Arts & Entertainment,-0.0,0.0
+2025-07-21,lagged_price,-0.0,0.0
+2025-07-21,sector_Administrative Services,-0.0,0.0
+2025-07-21,sector_Management/Holdings,0.0,0.0
+2025-07-21,sector_Information/Media,-0.0,0.0
+2025-07-21,sector_Finance & Insurance,-0.0,0.0
+2025-07-21,sector_Energy (Oil & Gas),-0.0,0.0
+2025-07-21,sector_Construction,0.0,0.0
+2025-07-21,sector_Arts & Entertainment,-0.0,0.0
+2025-07-21,rule_144a,0.0,0.0
+2025-07-21,coupon_type_label_Variable,-0.0,0.0
+2025-07-22,lagged_price,0.0,0.0
+2025-07-22,coupon_type_label_Variable,-0.0,0.0
+2025-07-22,sector_Manufacturing,0.0,0.0
+2025-07-22,sector_Management/Holdings,0.0,0.0
+2025-07-22,sector_Information/Media,-0.0,0.0
+2025-07-22,sector_Finance & Insurance,-0.0,0.0
+2025-07-22,sector_Energy (Oil & Gas),0.0,0.0
+2025-07-22,sector_Construction,-0.0,0.0
+2025-07-22,sector_Arts & Entertainment,0.0,0.0
+2025-07-22,sector_Administrative Services,0.0,0.0
+2025-07-23,seniority_Senior Secured,-0.007525950267209525,0.007525950267209525
+2025-07-23,lagged_price,-0.0,0.0
+2025-07-23,sector_Administrative Services,0.0,0.0
+2025-07-23,sector_Management/Holdings,0.0,0.0
+2025-07-23,sector_Information/Media,-0.0,0.0
+2025-07-23,sector_Healthcare,0.0,0.0
+2025-07-23,sector_Finance & Insurance,-0.0,0.0
+2025-07-23,sector_Energy (Oil & Gas),0.0,0.0
+2025-07-23,sector_Construction,0.0,0.0
+2025-07-23,sector_Arts & Entertainment,-0.0,0.0
+2025-07-24,lagged_price,-0.0,0.0
+2025-07-24,coupon_type_label_Variable,-0.0,0.0
+2025-07-24,sector_Management/Holdings,-0.0,0.0
+2025-07-24,sector_Information/Media,-0.0,0.0
+2025-07-24,sector_Healthcare,0.0,0.0
+2025-07-24,sector_Finance & Insurance,0.0,0.0
+2025-07-24,sector_Energy (Oil & Gas),-0.0,0.0
+2025-07-24,sector_Construction,0.0,0.0
+2025-07-24,sector_Arts & Entertainment,-0.0,0.0
+2025-07-24,sector_Administrative Services,0.0,0.0
+2025-07-25,seniority_Senior Secured,-2.237631042034472,2.237631042034472
+2025-07-25,lagged_price,0.0,0.0
+2025-07-25,sector_Administrative Services,0.0,0.0
+2025-07-25,sector_Information/Media,-0.0,0.0
+2025-07-25,sector_Healthcare,0.0,0.0
+2025-07-25,sector_Finance & Insurance,0.0,0.0
+2025-07-25,sector_Energy (Oil & Gas),-0.0,0.0
+2025-07-25,sector_Construction,-0.0,0.0
+2025-07-25,sector_Arts & Entertainment,-0.0,0.0
+2025-07-25,rule_144a,0.0,0.0
+2025-07-28,seniority_Senior Secured,1.9121683170086188e-17,1.9121683170086188e-17
+2025-07-28,lagged_price,-0.0,0.0
+2025-07-28,sector_Administrative Services,0.0,0.0
+2025-07-28,sector_Management/Holdings,0.0,0.0
+2025-07-28,sector_Information/Media,-0.0,0.0
+2025-07-28,sector_Finance & Insurance,-0.0,0.0
+2025-07-28,sector_Energy (Oil & Gas),0.0,0.0
+2025-07-28,sector_Construction,-0.0,0.0
+2025-07-28,sector_Arts & Entertainment,-0.0,0.0
+2025-07-28,rule_144a,0.0,0.0
+2025-07-29,seniority_Senior Secured,0.8716831738169355,0.8716831738169355
+2025-07-29,lagged_price,-0.0,0.0
+2025-07-29,sector_Administrative Services,0.0,0.0
+2025-07-29,sector_Management/Holdings,0.0,0.0
+2025-07-29,sector_Information/Media,-0.0,0.0
+2025-07-29,sector_Healthcare,0.0,0.0
+2025-07-29,sector_Finance & Insurance,-0.0,0.0
+2025-07-29,sector_Energy (Oil & Gas),-0.0,0.0
+2025-07-29,sector_Construction,0.0,0.0
+2025-07-29,sector_Arts & Entertainment,-0.0,0.0
+2025-07-30,sector_Energy (Oil & Gas),-3.5679214362352305e-17,3.5679214362352305e-17
+2025-07-30,lagged_price,-0.0,0.0
+2025-07-30,coupon_type_label_Variable,-0.0,0.0
+2025-07-30,sector_Management/Holdings,0.0,0.0
+2025-07-30,sector_Information/Media,-0.0,0.0
+2025-07-30,sector_Healthcare,0.0,0.0
+2025-07-30,sector_Finance & Insurance,-0.0,0.0
+2025-07-30,sector_Construction,0.0,0.0
+2025-07-30,sector_Arts & Entertainment,-0.0,0.0
+2025-07-30,sector_Administrative Services,0.0,0.0
+2025-07-31,lagged_price,0.0,0.0
+2025-07-31,sector_Other,0.0,0.0
+2025-07-31,sector_Management/Holdings,0.0,0.0
+2025-07-31,sector_Information/Media,-0.0,0.0
+2025-07-31,sector_Healthcare,0.0,0.0
+2025-07-31,sector_Finance & Insurance,0.0,0.0
+2025-07-31,sector_Energy (Oil & Gas),0.0,0.0
+2025-07-31,sector_Construction,-0.0,0.0
+2025-07-31,sector_Arts & Entertainment,-0.0,0.0
+2025-07-31,sector_Administrative Services,0.0,0.0
+2025-08-01,lagged_price,0.0,0.0
+2025-08-01,sector_Other,0.0,0.0
+2025-08-01,sector_Management/Holdings,-0.0,0.0
+2025-08-01,sector_Information/Media,-0.0,0.0
+2025-08-01,sector_Healthcare,0.0,0.0
+2025-08-01,sector_Finance & Insurance,0.0,0.0
+2025-08-01,sector_Energy (Oil & Gas),0.0,0.0
+2025-08-01,sector_Construction,0.0,0.0
+2025-08-01,sector_Arts & Entertainment,0.0,0.0
+2025-08-01,sector_Administrative Services,0.0,0.0
+2025-08-04,lagged_price,-0.0,0.0
+2025-08-04,sector_Administrative Services,0.0,0.0
+2025-08-04,sector_Management/Holdings,-0.0,0.0
+2025-08-04,sector_Information/Media,-0.0,0.0
+2025-08-04,sector_Finance & Insurance,0.0,0.0
+2025-08-04,sector_Energy (Oil & Gas),0.0,0.0
+2025-08-04,sector_Construction,0.0,0.0
+2025-08-04,sector_Arts & Entertainment,-0.0,0.0
+2025-08-04,rule_144a,0.0,0.0
+2025-08-04,sector_Other,0.0,0.0
+2025-08-05,seniority_Senior Secured,1.148709906633292,1.148709906633292
+2025-08-05,seniority_Subordinated,-0.2703126138730357,0.2703126138730357
+2025-08-05,lagged_price,-0.0,0.0
+2025-08-05,rule_144a,0.0,0.0
+2025-08-05,sector_Information/Media,-0.0,0.0
+2025-08-05,sector_Finance & Insurance,-0.0,0.0
+2025-08-05,sector_Energy (Oil & Gas),0.0,0.0
+2025-08-05,sector_Construction,0.0,0.0
+2025-08-05,sector_Arts & Entertainment,-0.0,0.0
+2025-08-05,sector_Administrative Services,0.0,0.0
+2025-08-06,rating_broad_D,-0.14963243511418015,0.14963243511418015
+2025-08-06,lagged_price,0.0,0.0
+2025-08-06,sector_Arts & Entertainment,0.0,0.0
+2025-08-06,sector_Management/Holdings,0.0,0.0
+2025-08-06,sector_Information/Media,0.0,0.0
+2025-08-06,sector_Healthcare,0.0,0.0
+2025-08-06,sector_Finance & Insurance,-0.0,0.0
+2025-08-06,sector_Energy (Oil & Gas),0.0,0.0
+2025-08-06,sector_Construction,0.0,0.0
+2025-08-06,rule_144a,0.0,0.0
+2025-08-07,rating_broad_D,-1.7695794758301142,1.7695794758301142
+2025-08-07,rating_broad_CCC,-1.6401069116558775,1.6401069116558775
+2025-08-07,redeemable,1.1348303705624676,1.1348303705624676
+2025-08-07,seniority_Senior Secured,0.8202475599886231,0.8202475599886231
+2025-08-07,sector_Retail Trade,0.5138355544376834,0.5138355544376834
+2025-08-07,years_to_maturity,-0.3186515357916451,0.3186515357916451
+2025-08-07,offering_yield,-0.2189921835029132,0.2189921835029132
+2025-08-07,sector_Management/Holdings,0.0689823555902117,0.0689823555902117
+2025-08-07,sector_Energy (Oil & Gas),-0.0042120451638807425,0.0042120451638807425
+2025-08-07,sector_Construction,0.0,0.0
+2025-08-08,lagged_price,0.0,0.0
+2025-08-08,sector_Arts & Entertainment,-0.0,0.0
+2025-08-08,sector_Manufacturing,-0.0,0.0
+2025-08-08,sector_Management/Holdings,0.0,0.0
+2025-08-08,sector_Information/Media,0.0,0.0
+2025-08-08,sector_Finance & Insurance,0.0,0.0
+2025-08-08,sector_Energy (Oil & Gas),0.0,0.0
+2025-08-08,sector_Construction,-0.0,0.0
+2025-08-08,rule_144a,0.0,0.0
+2025-08-08,sector_Other Services,-0.0,0.0
+2025-08-11,redeemable,-0.11652871513831571,0.11652871513831571
+2025-08-11,rating_broad_CCC,0.08675654416035847,0.08675654416035847
+2025-08-11,lagged_price,-0.07479606725585772,0.07479606725585772
+2025-08-11,convertible,-0.03297130660195622,0.03297130660195622
+2025-08-11,rating_broad_C,-0.022354746172728913,0.022354746172728913
+2025-08-11,sector_Construction,0.0,0.0
+2025-08-11,sector_Manufacturing,0.0,0.0
+2025-08-11,sector_Management/Holdings,-0.0,0.0
+2025-08-11,sector_Information/Media,-0.0,0.0
+2025-08-11,sector_Finance & Insurance,-0.0,0.0
+2025-08-12,rating_broad_CCC,1.0346312174105885,1.0346312174105885
+2025-08-12,rating_broad_CC,-0.789877955460897,0.789877955460897
+2025-08-12,rule_144a,-0.7073405519969037,0.7073405519969037
+2025-08-12,convertible,-0.4738804419525454,0.4738804419525454
+2025-08-12,redeemable,-0.39409869330169056,0.39409869330169056
+2025-08-12,lagged_price,-0.37908381390238016,0.37908381390238016
+2025-08-12,seniority_Senior Subordinated,-0.34798038271948795,0.34798038271948795
+2025-08-12,sector_Information/Media,-0.30143853330491205,0.30143853330491205
+2025-08-12,years_since_issue,0.29758688553015095,0.29758688553015095
+2025-08-12,sector_Manufacturing,0.24571401716907895,0.24571401716907895
+2025-08-13,lagged_price,-0.0,0.0
+2025-08-13,sector_Arts & Entertainment,-0.0,0.0
+2025-08-13,sector_Management/Holdings,0.0,0.0
+2025-08-13,sector_Information/Media,0.0,0.0
+2025-08-13,sector_Healthcare,0.0,0.0
+2025-08-13,sector_Finance & Insurance,-0.0,0.0
+2025-08-13,sector_Energy (Oil & Gas),-0.0,0.0
+2025-08-13,sector_Construction,0.0,0.0
+2025-08-13,rule_144a,0.0,0.0
+2025-08-13,sector_Other,0.0,0.0
+2025-08-14,lagged_price,0.0,0.0
+2025-08-14,sector_Other Services,-0.0,0.0
+2025-08-14,sector_Manufacturing,-0.0,0.0
+2025-08-14,sector_Management/Holdings,-0.0,0.0
+2025-08-14,sector_Information/Media,0.0,0.0
+2025-08-14,sector_Finance & Insurance,0.0,0.0
+2025-08-14,sector_Energy (Oil & Gas),0.0,0.0
+2025-08-14,sector_Construction,0.0,0.0
+2025-08-14,sector_Arts & Entertainment,-0.0,0.0
+2025-08-14,sector_Administrative Services,0.0,0.0
+2025-08-15,lagged_price,0.0,0.0
+2025-08-15,coupon_type_label_Variable,-0.0,0.0
+2025-08-15,sector_Manufacturing,0.0,0.0
+2025-08-15,sector_Management/Holdings,0.0,0.0
+2025-08-15,sector_Information/Media,0.0,0.0
+2025-08-15,sector_Healthcare,0.0,0.0
+2025-08-15,sector_Finance & Insurance,-0.0,0.0
+2025-08-15,sector_Energy (Oil & Gas),-0.0,0.0
+2025-08-15,sector_Construction,-0.0,0.0
+2025-08-15,sector_Arts & Entertainment,-0.0,0.0
+2025-08-18,rating_broad_CCC,1.1781428040183424,1.1781428040183424
+2025-08-18,redeemable,-0.567958106791454,0.567958106791454
+2025-08-18,seniority_Senior Unsecured,-0.5465402004269025,0.5465402004269025
+2025-08-18,seniority_Subordinated,0.019088495389870647,0.019088495389870647
+2025-08-18,lagged_price,-0.0,0.0
+2025-08-18,sector_Administrative Services,0.0,0.0
+2025-08-18,sector_Information/Media,-0.0,0.0
+2025-08-18,sector_Healthcare,0.0,0.0
+2025-08-18,sector_Finance & Insurance,-0.0,0.0
+2025-08-18,sector_Energy (Oil & Gas),-0.0,0.0
+2025-08-19,redeemable,0.007641762370568737,0.007641762370568737
+2025-08-19,lagged_price,0.0,0.0
+2025-08-19,sector_Arts & Entertainment,-0.0,0.0
+2025-08-19,sector_Management/Holdings,-0.0,0.0
+2025-08-19,sector_Information/Media,-0.0,0.0
+2025-08-19,sector_Healthcare,0.0,0.0
+2025-08-19,sector_Finance & Insurance,0.0,0.0
+2025-08-19,sector_Energy (Oil & Gas),0.0,0.0
+2025-08-19,sector_Construction,0.0,0.0
+2025-08-19,sector_Administrative Services,0.0,0.0
+2025-08-20,lagged_price,0.0,0.0
+2025-08-20,coupon_type_label_Variable,0.0,0.0
+2025-08-20,sector_Manufacturing,-0.0,0.0
+2025-08-20,sector_Management/Holdings,-0.0,0.0
+2025-08-20,sector_Information/Media,0.0,0.0
+2025-08-20,sector_Finance & Insurance,-0.0,0.0
+2025-08-20,sector_Energy (Oil & Gas),0.0,0.0
+2025-08-20,sector_Construction,0.0,0.0
+2025-08-20,sector_Arts & Entertainment,0.0,0.0
+2025-08-20,sector_Administrative Services,0.0,0.0
