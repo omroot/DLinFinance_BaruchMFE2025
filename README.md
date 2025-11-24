@@ -28,6 +28,16 @@ This repository hosts the lecture material, notebooks, and homework for the Baru
   - [Latent Neural ODE Illustration.ipynb](src/notebooks/node/latent_neural_ode_illustration.ipynb)
 - Homework: [`homeworks/week3/homework_latent_ode_bond_trading.ipynb`](homeworks/week3/homework_latent_ode_bond_trading.ipynb)
 
+## Week 4
+- Slides: download the lecture decks from [`lecture_slides/week4/`](lecture_slides/week4/).
+- GAN notebooks: explore Generative Adversarial Networks for financial applications in `src/notebooks/gan/`. Key notebooks include:
+  - [Vanilla GAN Illustration.ipynb](src/notebooks/gan/vanilla_gan_illustration.ipynb)
+  - [Conditional GAN Classification Illustration.ipynb](src/notebooks/gan/conditional_gan_classification_illustration.ipynb)
+  - [Conditional GAN Regression Illustration.ipynb](src/notebooks/gan/conditional_gan_regression_illustration.ipynb)
+  - [Wasserstein GAN Illustration.ipynb](src/notebooks/gan/wgan_illustration.ipynb)
+  - [InfoGAN Illustration.ipynb](src/notebooks/gan/infogan_illustration.ipynb)
+- Homework: begin with [`homeworks/week4/assignment/README.md`](homeworks/week4/assignment/README.md) for instructions on the bond pricing CGAN project.
+
 ## Repository Layout
 - `homeworks/`: weekly assignments and starter code.
 - `lecture_slides/`: slide decks used in class.
