@@ -38,6 +38,15 @@ This repository hosts the lecture material, notebooks, and homework for the Baru
   - [InfoGAN Illustration.ipynb](src/notebooks/gan/infogan_illustration.ipynb)
 - Homework: begin with [`homeworks/week4/assignment/README.md`](homeworks/week4/assignment/README.md) for instructions on the bond pricing CGAN project.
 
+## Week 5
+- Slides: download the lecture decks from [`lecture_slides/week5/`](lecture_slides/week5/).
+- Diffusion model notebooks: explore diffusion models and score-based generative models in `src/notebooks/diffusion/`. Key notebooks include:
+  - [DDPM 2D Illustration.ipynb](src/notebooks/diffusion/ddpm_2d_illustration.ipynb)
+  - [Score Matching Diffusion.ipynb](src/notebooks/diffusion/score_matching_diffusion.ipynb)
+  - [NCSN Multiscale Score Matching.ipynb](src/notebooks/diffusion/ncsn_multiscale_score_matching.ipynb)
+  - [Score SDE Diffusion.ipynb](src/notebooks/diffusion/score_sde_diffusion.ipynb)
+- Homework: [`homeworks/week5/homework_ddpm_covariance_shrinkage.ipynb`](homeworks/week5/homework_ddpm_covariance_shrinkage.ipynb)
+
 ## Repository Layout
 - `homeworks/`: weekly assignments and starter code.
 - `lecture_slides/`: slide decks used in class.
