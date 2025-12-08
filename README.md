@@ -47,6 +47,14 @@ This repository hosts the lecture material, notebooks, and homework for the Baru
   - [Score SDE Diffusion.ipynb](src/notebooks/diffusion/score_sde_diffusion.ipynb)
 - Homework: [`homeworks/week5/homework_ddpm_covariance_shrinkage.ipynb`](homeworks/week5/homework_ddpm_covariance_shrinkage.ipynb)
 
+## Week 6
+- Slides: download the lecture decks from [`lecture_slides/week6/`](lecture_slides/week6/).
+- GNN notebooks: explore Graph Neural Networks for financial applications in `src/notebooks/gnn/`. Key notebooks include:
+  - [GNN Classification with Neighbor Aggregation.ipynb](src/notebooks/gnn/gnn_classification_neighbor_aggregation.ipynb)
+  - [GNN Regression with Neighbor Aggregation.ipynb](src/notebooks/gnn/gnn_regression_neighbor_aggregation.ipynb)
+  - [GNN Emerging Markets Alpha Modeling.ipynb](src/notebooks/gnn/gnn_emerging_markets_alpha_modeling.ipynb)
+- Homework: [`homeworks/week6/hw06_gnn_alpha_prediction_assignment.ipynb`](homeworks/week6/hw06_gnn_alpha_prediction_assignment.ipynb)
+
 ## Repository Layout
 - `homeworks/`: weekly assignments and starter code.
 - `lecture_slides/`: slide decks used in class.
