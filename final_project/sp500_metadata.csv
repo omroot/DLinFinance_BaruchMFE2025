@@ -1,0 +1,505 @@
+ticker,name,exchange,sector,industry,scalemarketcap,scalerevenue,location
+A,Agilent Technologies Inc,NYSE,Healthcare,Diagnostics & Research,5 - Large,5 - Large,California; U.S.A
+AAL,American Airlines Group Inc,NASDAQ,Industrials,Airlines,5 - Large,5 - Large,Texas; U.S.A
+AAP,Advance Auto Parts Inc,NYSE,Consumer Cyclical,Specialty Retail,5 - Large,4 - Mid,North Carolina; U.S.A
+AAPL,Apple Inc,NASDAQ,Technology,Consumer Electronics,6 - Mega,6 - Mega,California; U.S.A
+ABBV,AbbVie Inc,NYSE,Healthcare,Drug Manufacturers - General,5 - Large,5 - Large,Illinois; U.S.A
+ABC,Amerisourcebergen Corp,NYSE,Healthcare,Medical Distribution,5 - Large,5 - Large,Pennsylvania; U.S.A
+ABMD,Abiomed Inc,NASDAQ,Healthcare,Medical Devices,5 - Large,3 - Small,Massachusetts; U.S.A
+ABT,Abbott Laboratories,NYSE,Healthcare,Medical Devices,5 - Large,5 - Large,Illinois; U.S.A
+ACN,Accenture plc,NYSE,Technology,Information Technology Services,5 - Large,5 - Large,Ireland
+ADBE,Adobe Inc,NASDAQ,Technology,Software - Infrastructure,6 - Mega,5 - Large,California; U.S.A
+ADI,Analog Devices Inc,NASDAQ,Technology,Semiconductors,5 - Large,4 - Mid,Massachusetts; U.S.A
+ADM,Archer-Daniels-Midland Co,NYSE,Consumer Defensive,Farm Products,5 - Large,5 - Large,Illinois; U.S.A
+ADP,Automatic Data Processing Inc,NASDAQ,Industrials,Staffing & Employment Services,5 - Large,5 - Large,New Jersey; U.S.A
+ADSK,Autodesk Inc,NASDAQ,Technology,Software - Application,5 - Large,4 - Mid,California; U.S.A
+AEE,Ameren Corp,NYSE,Utilities,Utilities - Regulated Electric,5 - Large,4 - Mid,Missouri; U.S.A
+AEP,American Electric Power Co Inc,NYSE,Utilities,Utilities - Regulated Electric,5 - Large,5 - Large,Ohio; U.S.A
+AES,Aes Corp,NYSE,Utilities,Utilities - Diversified,5 - Large,5 - Large,Virginia; U.S.A
+AFL,Aflac Inc,NYSE,Financial Services,Insurance - Life,5 - Large,5 - Large,Georgia; U.S.A
+AIG,American International Group Inc,NYSE,Financial Services,Insurance - Diversified,6 - Mega,5 - Large,New York; U.S.A
+AIV,Apartment Investment & Management Co,NYSE,Real Estate,REIT - Residential,4 - Mid,3 - Small,Colorado; U.S.A
+AIZ,Assurant Inc,NYSE,Financial Services,Insurance - Specialty,4 - Mid,5 - Large,New York; U.S.A
+AJG,Arthur J Gallagher & Co,NYSE,Financial Services,Insurance Brokers,5 - Large,4 - Mid,Illinois; U.S.A
+AKAM,Akamai Technologies Inc,NASDAQ,Technology,Software - Infrastructure,5 - Large,4 - Mid,Massachusetts; U.S.A
+ALB,Albemarle Corp,NYSE,Basic Materials,Specialty Chemicals,5 - Large,4 - Mid,North Carolina; U.S.A
+ALGN,Align Technology Inc,NASDAQ,Healthcare,Medical Devices,5 - Large,4 - Mid,California; U.S.A
+ALK,Alaska Air Group Inc,NYSE,Industrials,Airlines,5 - Large,4 - Mid,Washington; U.S.A
+ALL,Allstate Corp,NYSE,Financial Services,Insurance - Property & Casualty,5 - Large,5 - Large,Illinois; U.S.A
+ALLE,Allegion plc,NYSE,Industrials,Security & Protection Services,5 - Large,4 - Mid,Ireland
+ALXN,Alexion Pharmaceuticals Inc,NASDAQ,Healthcare,Biotechnology,5 - Large,4 - Mid,Massachusetts; U.S.A
+AMAT,Applied Materials Inc,NASDAQ,Technology,Semiconductor Equipment & Materials,5 - Large,5 - Large,California; U.S.A
+AMCR,Amcor plc,NYSE,Consumer Cyclical,Packaging & Containers,5 - Large,5 - Large,United Kingdom
+AMD,Advanced Micro Devices Inc,NASDAQ,Technology,Semiconductors,5 - Large,4 - Mid,California; U.S.A
+AME,Ametek Inc,NYSE,Industrials,Specialty Industrial Machinery,5 - Large,4 - Mid,Pennsylvania; U.S.A
+AMGN,Amgen Inc,NASDAQ,Healthcare,Drug Manufacturers - General,5 - Large,5 - Large,California; U.S.A
+AMP,Ameriprise Financial Inc,NYSE,Financial Services,Asset Management,5 - Large,5 - Large,Minnesota; U.S.A
+AMT,American Tower Corp,NYSE,Real Estate,REIT - Specialty,5 - Large,4 - Mid,Massachusetts; U.S.A
+AMZN,Amazon Com Inc,NASDAQ,Technology,Internet Retail,6 - Mega,6 - Mega,Washington; U.S.A
+ANET,Arista Networks Inc,NYSE,Technology,Computer Hardware,5 - Large,4 - Mid,California; U.S.A
+ANSS,Ansys Inc,NASDAQ,Technology,Software - Application,5 - Large,3 - Small,Pennsylvania; U.S.A
+ANTM,Anthem Inc,NYSE,Healthcare,Healthcare Plans,5 - Large,5 - Large,Indiana; U.S.A
+AON,Aon plc,NYSE,Financial Services,Insurance Brokers,5 - Large,5 - Large,United Kingdom
+AOS,Smith A O Corp,NYSE,Industrials,Specialty Industrial Machinery,5 - Large,4 - Mid,Wisconsin; U.S.A
+APA,Apache Corp,NYSE,Energy,Oil & Gas E&P,5 - Large,5 - Large,Texas; U.S.A
+APD,Air Products & Chemicals Inc,NYSE,Basic Materials,Chemicals,5 - Large,5 - Large,Pennsylvania; U.S.A
+APH,Amphenol Corp,NYSE,Technology,Electronic Components,5 - Large,4 - Mid,Connecticut; U.S.A
+APTV,Aptiv PLC,NYSE,Consumer Cyclical,Auto Parts,5 - Large,5 - Large,Ireland
+ARE,Alexandria Real Estate Equities Inc,NYSE,Real Estate,REIT - Office,5 - Large,3 - Small,California; U.S.A
+ATO,Atmos Energy Corp,NYSE,Utilities,Utilities - Regulated Gas,5 - Large,4 - Mid,Texas; U.S.A
+ATVI,Activision Blizzard Inc,NASDAQ,Technology,Electronic Gaming & Multimedia,5 - Large,4 - Mid,California; U.S.A
+AVB,Avalonbay Communities Inc,NYSE,Real Estate,REIT - Residential,5 - Large,4 - Mid,Virginia; U.S.A
+AVGO,Broadcom Inc,NASDAQ,Technology,Semiconductors,5 - Large,5 - Large,California; U.S.A
+AVY,Avery Dennison Corp,NYSE,Industrials,Business Equipment & Supplies,5 - Large,4 - Mid,California; U.S.A
+AWK,American Water Works Company Inc,NYSE,Utilities,Utilities - Regulated Water,5 - Large,4 - Mid,New Jersey; U.S.A
+AXP,American Express Co,NYSE,Financial Services,Credit Services,5 - Large,5 - Large,New York; U.S.A
+AZO,Autozone Inc,NYSE,Consumer Cyclical,Specialty Retail,5 - Large,5 - Large,Tennessee; U.S.A
+BA,Boeing Co,NYSE,Industrials,Aerospace & Defense,6 - Mega,5 - Large,Washington; U.S.A
+BAC,Bank Of America Corp,NYSE,Financial Services,Banks - Diversified,6 - Mega,5 - Large,North Carolina; U.S.A
+BAX,Baxter International Inc,NYSE,Healthcare,Medical Instruments & Supplies,5 - Large,5 - Large,Illinois; U.S.A
+BBY,Best Buy Co Inc,NYSE,Consumer Cyclical,Specialty Retail,5 - Large,5 - Large,Minnesota; U.S.A
+BDX,Becton Dickinson & Co,NYSE,Healthcare,Medical Instruments & Supplies,5 - Large,5 - Large,New Jersey; U.S.A
+BEN,Franklin Resources Inc,NYSE,Financial Services,Asset Management,5 - Large,4 - Mid,California; U.S.A
+BF.B,Brown Forman Corp,NYSE,Consumer Defensive,Beverages - Wineries & Distilleries,5 - Large,4 - Mid,Kentucky; U.S.A
+BIIB,Biogen Inc,NASDAQ,Healthcare,Drug Manufacturers - General,5 - Large,5 - Large,Massachusetts; U.S.A
+BIO,Bio-Rad Laboratories Inc,NYSE,Healthcare,Medical Devices,5 - Large,4 - Mid,California; U.S.A
+BK,Bank of New York Mellon Corp,NYSE,Financial Services,Asset Management,5 - Large,5 - Large,New York; U.S.A
+BKNG,Booking Holdings Inc,NASDAQ,Industrials,Travel Services,5 - Large,5 - Large,Connecticut; U.S.A
+BKR,Baker Hughes Co,NYSE,Energy,Oil & Gas Equipment & Services,5 - Large,5 - Large,Texas; U.S.A
+BLK,BlackRock Inc,NYSE,Financial Services,Asset Management,5 - Large,5 - Large,New York; U.S.A
+BLL,BALL Corp,NYSE,Consumer Cyclical,Packaging & Containers,5 - Large,5 - Large,Colorado; U.S.A
+BMY,Bristol Myers Squibb Co,NYSE,Healthcare,Drug Manufacturers - General,5 - Large,5 - Large,New York; U.S.A
+BR,Broadridge Financial Solutions Inc,NYSE,Technology,Information Technology Services,5 - Large,4 - Mid,New York; U.S.A
+BRK.B,Berkshire Hathaway Inc,NYSE,Financial Services,Insurance - Diversified,6 - Mega,6 - Mega,Nebraska; U.S.A
+BSX,Boston Scientific Corp,NYSE,Healthcare,Medical Devices,5 - Large,5 - Large,Massachusetts; U.S.A
+BWA,Borgwarner Inc,NYSE,Consumer Cyclical,Auto Parts,5 - Large,5 - Large,Michigan; U.S.A
+BXP,Boston Properties Inc,NYSE,Real Estate,REIT - Office,5 - Large,4 - Mid,Massachusetts; U.S.A
+C,Citigroup Inc,NYSE,Financial Services,Banks - Diversified,6 - Mega,5 - Large,New York; U.S.A
+CAG,Conagra Brands Inc,NYSE,Consumer Defensive,Packaged Foods,5 - Large,5 - Large,Illinois; U.S.A
+CAH,Cardinal Health Inc,NYSE,Healthcare,Medical Distribution,5 - Large,5 - Large,Ohio; U.S.A
+CARR,Carrier Global Corp,NYSE,Basic Materials,Building Products & Equipment,5 - Large,5 - Large,Florida; U.S.A
+CAT,Caterpillar Inc,NYSE,Industrials,Farm & Heavy Construction Machinery,5 - Large,5 - Large,Illinois; U.S.A
+CB,Chubb Ltd,NYSE,Financial Services,Insurance - Property & Casualty,5 - Large,5 - Large,Switzerland
+CBOE,Cboe Global Markets Inc,BATS,Financial Services,Financial Exchanges,5 - Large,4 - Mid,Illinois; U.S.A
+CBRE,Cbre Group Inc,NYSE,Real Estate,Real Estate Services,5 - Large,5 - Large,California; U.S.A
+CCI,Crown Castle International Corp,NYSE,Real Estate,REIT - Specialty,5 - Large,4 - Mid,Texas; U.S.A
+CCL,Carnival Corp,NYSE,Industrials,Travel Services,5 - Large,5 - Large,Florida; U.S.A
+CDNS,Cadence Design Systems Inc,NASDAQ,Technology,Software - Application,5 - Large,4 - Mid,California; U.S.A
+CDW,CDW Corp,NASDAQ,Technology,Information Technology Services,5 - Large,5 - Large,Illinois; U.S.A
+CE,Celanese Corp,NYSE,Basic Materials,Chemicals,5 - Large,4 - Mid,Texas; U.S.A
+CERN,CERNER Corp,NASDAQ,Technology,Health Information Services,5 - Large,4 - Mid,Missouri; U.S.A
+CF,CF Industries Holdings Inc,NYSE,Basic Materials,Agricultural Inputs,5 - Large,4 - Mid,Illinois; U.S.A
+CFG,Citizens Financial Group Inc,NYSE,Financial Services,Banks - Regional,5 - Large,4 - Mid,Rhode Island; U.S.A
+CHD,Church & Dwight Co Inc,NYSE,Consumer Defensive,Household & Personal Products,5 - Large,4 - Mid,New Jersey; U.S.A
+CHRW,C H Robinson Worldwide Inc,NASDAQ,Industrials,Integrated Freight & Logistics,5 - Large,5 - Large,Minnesota; U.S.A
+CHTR,Charter Communications Inc,NASDAQ,Consumer Cyclical,Entertainment,5 - Large,5 - Large,Connecticut; U.S.A
+CI,Cigna Corp,NYSE,Healthcare,Healthcare Plans,5 - Large,5 - Large,Connecticut; U.S.A
+CINF,Cincinnati Financial Corp,NASDAQ,Financial Services,Insurance - Property & Casualty,5 - Large,4 - Mid,Ohio; U.S.A
+CL,Colgate Palmolive Co,NYSE,Consumer Defensive,Household & Personal Products,5 - Large,5 - Large,New York; U.S.A
+CLX,Clorox Co,NYSE,Consumer Defensive,Household & Personal Products,5 - Large,4 - Mid,California; U.S.A
+CMA,Comerica Inc,NYSE,Financial Services,Banks - Regional,5 - Large,4 - Mid,Texas; U.S.A
+CMCSA,Comcast Corp,NASDAQ,Consumer Cyclical,Entertainment,6 - Mega,5 - Large,Pennsylvania; U.S.A
+CME,Cme Group Inc,NASDAQ,Financial Services,Financial Data & Stock Exchanges,5 - Large,4 - Mid,Illinois; U.S.A
+CMG,Chipotle Mexican Grill Inc,NYSE,Consumer Cyclical,Restaurants,5 - Large,4 - Mid,California; U.S.A
+CMI,Cummins Inc,NYSE,Industrials,Specialty Industrial Machinery,5 - Large,5 - Large,Indiana; U.S.A
+CMS,Cms Energy Corp,NYSE,Utilities,Utilities - Regulated Electric,5 - Large,5 - Large,Michigan; U.S.A
+CNC,Centene Corp,NYSE,Healthcare,Healthcare Plans,5 - Large,5 - Large,Missouri; U.S.A
+CNP,Centerpoint Energy Inc,NYSE,Utilities,Utilities - Regulated Gas,5 - Large,5 - Large,Texas; U.S.A
+COF,Capital One Financial Corp,NYSE,Financial Services,Credit Services,5 - Large,5 - Large,Virginia; U.S.A
+COG,Cabot Oil & Gas Corp,NYSE,Energy,Oil & Gas E&P,5 - Large,4 - Mid,Texas; U.S.A
+COO,Cooper Companies Inc,NYSE,Healthcare,Medical Instruments & Supplies,5 - Large,4 - Mid,California; U.S.A
+COP,Conocophillips,NYSE,Energy,Oil & Gas E&P,5 - Large,6 - Mega,Texas; U.S.A
+COST,Costco Wholesale Corp,NASDAQ,Consumer Defensive,Discount Stores,5 - Large,5 - Large,Washington; U.S.A
+CPB,Campbell Soup Co,NYSE,Consumer Defensive,Packaged Foods,5 - Large,4 - Mid,New Jersey; U.S.A
+CPRT,Copart Inc,NASDAQ,Industrials,Specialty Business Services,5 - Large,4 - Mid,Texas; U.S.A
+CRM,Salesforcecom Inc,NYSE,Technology,Software - Application,6 - Mega,5 - Large,California; U.S.A
+CSCO,Cisco Systems Inc,NASDAQ,Technology,Communication Equipment,6 - Mega,5 - Large,California; U.S.A
+CSX,Csx Corp,NASDAQ,Industrials,Railroads,5 - Large,5 - Large,Florida; U.S.A
+CTAS,Cintas Corp,NASDAQ,Industrials,Specialty Business Services,5 - Large,4 - Mid,Ohio; U.S.A
+CTLT,Catalent Inc,NYSE,Healthcare,Drug Manufacturers - Specialty & Generic,5 - Large,4 - Mid,New Jersey; U.S.A
+CTSH,Cognizant Technology Solutions Corp,NASDAQ,Technology,Information Technology Services,5 - Large,5 - Large,New Jersey; U.S.A
+CTVA,Corteva Inc,NYSE,Basic Materials,Agricultural Inputs,5 - Large,5 - Large,Delaware; U.S.A
+CTXS,Citrix Systems Inc,NASDAQ,Technology,Software - Application,5 - Large,4 - Mid,Florida; U.S.A
+CVS,CVS HEALTH Corp,NYSE,Healthcare,Healthcare Plans,5 - Large,6 - Mega,Rhode Island; U.S.A
+CVX,Chevron Corp,NYSE,Energy,Oil & Gas Integrated,6 - Mega,6 - Mega,California; U.S.A
+CXO,Concho Resources Inc,NYSE,Energy,Oil & Gas E&P,5 - Large,4 - Mid,Texas; U.S.A
+D,Dominion Energy Inc,NYSE,Utilities,Utilities - Diversified,5 - Large,5 - Large,Virginia; U.S.A
+DAL,Delta Air Lines Inc,NYSE,Industrials,Airlines,5 - Large,5 - Large,Georgia; U.S.A
+DD,DuPont de Nemours Inc,NYSE,Basic Materials,Chemicals,5 - Large,5 - Large,Delaware; U.S.A
+DE,Deere & Co,NYSE,Industrials,Farm & Heavy Construction Machinery,5 - Large,5 - Large,Illinois; U.S.A
+DFS,Discover Financial Services,NYSE,Financial Services,Credit Services,5 - Large,4 - Mid,Illinois; U.S.A
+DG,Dollar General Corp,NYSE,Consumer Defensive,Discount Stores,5 - Large,5 - Large,Tennessee; U.S.A
+DGX,Quest Diagnostics Inc,NYSE,Healthcare,Diagnostics & Research,5 - Large,4 - Mid,New Jersey; U.S.A
+DHI,Horton D R Inc,NYSE,Consumer Cyclical,Residential Construction,5 - Large,5 - Large,Texas; U.S.A
+DHR,Danaher Corp,NYSE,Healthcare,Diagnostics & Research,5 - Large,5 - Large,District Of Columbia; U.S.A
+DIS,Walt Disney Co,NYSE,Consumer Cyclical,Entertainment,6 - Mega,5 - Large,California; U.S.A
+DISCA,Discovery Inc,NASDAQ,Consumer Cyclical,Entertainment,5 - Large,5 - Large,Maryland; U.S.A
+DISH,DISH Network CORP,NASDAQ,Consumer Cyclical,Entertainment,5 - Large,5 - Large,Colorado; U.S.A
+DLR,Digital Realty Trust Inc,NYSE,Real Estate,REIT - Office,5 - Large,4 - Mid,California; U.S.A
+DLTR,Dollar Tree Inc,NASDAQ,Consumer Defensive,Discount Stores,5 - Large,5 - Large,Virginia; U.S.A
+DOV,DOVER Corp,NYSE,Industrials,Specialty Industrial Machinery,5 - Large,4 - Mid,Illinois; U.S.A
+DOW,Dow Inc,NYSE,Basic Materials,Chemicals,5 - Large,5 - Large,Michigan; U.S.A
+DPZ,Dominos Pizza Inc,NYSE,Consumer Cyclical,Restaurants,5 - Large,4 - Mid,Michigan; U.S.A
+DRE,Duke Realty Corp,NYSE,Real Estate,REIT - Industrial,5 - Large,3 - Small,Indiana; U.S.A
+DRI,Darden Restaurants Inc,NYSE,Consumer Cyclical,Restaurants,5 - Large,4 - Mid,Florida; U.S.A
+DTE,Dte Energy Co,NYSE,Utilities,Utilities - Regulated Electric,5 - Large,5 - Large,Michigan; U.S.A
+DUK,Duke Energy CORP,NYSE,Utilities,Utilities - Regulated Electric,5 - Large,5 - Large,North Carolina; U.S.A
+DVA,Davita Inc,NYSE,Healthcare,Medical Care Facilities,5 - Large,5 - Large,Colorado; U.S.A
+DVN,Devon Energy Corp,NYSE,Energy,Oil & Gas E&P,5 - Large,5 - Large,Oklahoma; U.S.A
+DXC,DXC Technology Co,NYSE,Technology,Information Technology Services,5 - Large,5 - Large,Virginia; U.S.A
+DXCM,Dexcom Inc,NASDAQ,Healthcare,Diagnostics & Research,5 - Large,3 - Small,California; U.S.A
+EA,Electronic Arts Inc,NASDAQ,Technology,Electronic Gaming & Multimedia,5 - Large,4 - Mid,California; U.S.A
+EBAY,Ebay Inc,NASDAQ,Technology,Internet Retail,5 - Large,5 - Large,California; U.S.A
+ECL,Ecolab Inc,NYSE,Basic Materials,Specialty Chemicals,5 - Large,5 - Large,Minnesota; U.S.A
+ED,Consolidated Edison Inc,NYSE,Utilities,Utilities - Regulated Electric,5 - Large,5 - Large,New York; U.S.A
+EFX,Equifax Inc,NYSE,Industrials,Consulting Services,5 - Large,4 - Mid,Georgia; U.S.A
+EIX,Edison International,NYSE,Utilities,Utilities - Regulated Electric,5 - Large,5 - Large,California; U.S.A
+EL,Estee Lauder Companies Inc,NYSE,Consumer Defensive,Household & Personal Products,5 - Large,5 - Large,New York; U.S.A
+EMN,Eastman Chemical Co,NYSE,Basic Materials,Chemicals,5 - Large,5 - Large,Tennessee; U.S.A
+EMR,Emerson Electric Co,NYSE,Industrials,Specialty Industrial Machinery,5 - Large,5 - Large,Missouri; U.S.A
+EOG,Eog Resources Inc,NYSE,Energy,Oil & Gas E&P,5 - Large,5 - Large,Texas; U.S.A
+EQIX,Equinix Inc,NASDAQ,Real Estate,REIT - Specialty,5 - Large,4 - Mid,California; U.S.A
+EQR,Equity Residential,NYSE,Real Estate,REIT - Residential,5 - Large,4 - Mid,Illinois; U.S.A
+ES,Eversource Energy,NYSE,Utilities,Utilities - Regulated Electric,5 - Large,4 - Mid,Massachusetts; U.S.A
+ESS,Essex Property Trust Inc,NYSE,Real Estate,REIT - Residential,5 - Large,3 - Small,California; U.S.A
+ETFC,E Trade Financial Corp,NASDAQ,Financial Services,Capital Markets,5 - Large,4 - Mid,Virginia; U.S.A
+ETN,Eaton Corp plc,NYSE,Industrials,Specialty Industrial Machinery,5 - Large,5 - Large,Ireland
+ETR,Entergy Corp,NYSE,Utilities,Utilities - Diversified,5 - Large,5 - Large,Louisiana; U.S.A
+ETSY,Etsy Inc,NASDAQ,Technology,Internet Retail,5 - Large,3 - Small,New York; U.S.A
+EVRG,Evergy Inc,NYSE,Utilities,Utilities - Regulated Electric,5 - Large,4 - Mid,Missouri; U.S.A
+EW,Edwards Lifesciences Corp,NYSE,Healthcare,Medical Devices,5 - Large,4 - Mid,California; U.S.A
+EXC,Exelon Corp,NASDAQ,Utilities,Utilities - Diversified,5 - Large,5 - Large,Illinois; U.S.A
+EXPD,Expeditors International Of Washington Inc,NASDAQ,Industrials,Integrated Freight & Logistics,5 - Large,4 - Mid,Washington; U.S.A
+EXPE,Expedia Group Inc,NASDAQ,Industrials,Travel Services,5 - Large,5 - Large,Washington; U.S.A
+EXR,Extra Space Storage Inc,NYSE,Real Estate,REIT - Industrial,5 - Large,3 - Small,Utah; U.S.A
+F,Ford Motor Co,NYSE,Consumer Cyclical,Auto Manufacturers,5 - Large,5 - Large,Michigan; U.S.A
+FANG,Diamondback Energy Inc,NASDAQ,Energy,Oil & Gas E&P,5 - Large,4 - Mid,Texas; U.S.A
+FAST,Fastenal Co,NASDAQ,Industrials,Industrial Distribution,5 - Large,4 - Mid,Minnesota; U.S.A
+FB,Facebook Inc,NASDAQ,Technology,Internet Content & Information,6 - Mega,5 - Large,California; U.S.A
+FBHS,Fortune Brands Home & Security Inc,NYSE,Consumer Cyclical,Furnishings Fixtures & Appliances,5 - Large,4 - Mid,Illinois; U.S.A
+FCX,Freeport-Mcmoran Inc,NYSE,Basic Materials,Copper,5 - Large,5 - Large,Arizona; U.S.A
+FDX,Fedex Corp,NYSE,Industrials,Integrated Freight & Logistics,5 - Large,5 - Large,Tennessee; U.S.A
+FE,Firstenergy Corp,NYSE,Utilities,Utilities - Diversified,5 - Large,5 - Large,Ohio; U.S.A
+FFIV,F5 Networks Inc,NASDAQ,Technology,Software - Infrastructure,5 - Large,4 - Mid,Washington; U.S.A
+FIS,Fidelity National Information Services Inc,NYSE,Technology,Information Technology Services,5 - Large,5 - Large,Florida; U.S.A
+FISV,Fiserv Inc,NASDAQ,Technology,Information Technology Services,5 - Large,5 - Large,Wisconsin; U.S.A
+FITB,Fifth Third Bancorp,NASDAQ,Financial Services,Banks - Regional,5 - Large,4 - Mid,Ohio; U.S.A
+FLIR,Flir Systems Inc,NASDAQ,Technology,Scientific & Technical Instruments,4 - Mid,3 - Small,Oregon; U.S.A
+FLS,Flowserve Corp,NYSE,Industrials,Specialty Industrial Machinery,5 - Large,4 - Mid,Texas; U.S.A
+FLT,Fleetcor Technologies Inc,NYSE,Technology,Information Technology Services,5 - Large,4 - Mid,Georgia; U.S.A
+FMC,Fmc Corp,NYSE,Basic Materials,Agricultural Inputs,5 - Large,4 - Mid,Pennsylvania; U.S.A
+FOXA,Fox Corp,NASDAQ,Consumer Cyclical,Broadcasting,5 - Large,5 - Large,New York; U.S.A
+FRT,Federal Realty Investment Trust,NYSE,Real Estate,REIT - Retail,5 - Large,3 - Small,Maryland; U.S.A
+FTI,TechnipFMC plc,NYSE,Energy,Oil & Gas Equipment & Services,5 - Large,5 - Large,United Kingdom
+FTNT,Fortinet Inc,NASDAQ,Technology,Software - Infrastructure,5 - Large,4 - Mid,California; U.S.A
+FTV,Fortive Corp,NYSE,Technology,Scientific & Technical Instruments,5 - Large,4 - Mid,Washington; U.S.A
+GD,General Dynamics Corp,NYSE,Industrials,Aerospace & Defense,5 - Large,5 - Large,Virginia; U.S.A
+GE,General Electric Co,NYSE,Industrials,Specialty Industrial Machinery,6 - Mega,5 - Large,Massachusetts; U.S.A
+GILD,Gilead Sciences Inc,NASDAQ,Healthcare,Drug Manufacturers - General,5 - Large,5 - Large,California; U.S.A
+GIS,General Mills Inc,NYSE,Consumer Defensive,Packaged Foods,5 - Large,5 - Large,Minnesota; U.S.A
+GL,Globe Life Inc,NYSE,Financial Services,Insurance - Life,5 - Large,4 - Mid,Texas; U.S.A
+GLW,Corning Inc,NYSE,Technology,Electronic Components,5 - Large,5 - Large,New York; U.S.A
+GM,General Motors Co,NYSE,Consumer Cyclical,Auto Manufacturers,5 - Large,5 - Large,Michigan; U.S.A
+GOOGL,Alphabet Inc,NASDAQ,Technology,Internet Content & Information,6 - Mega,5 - Large,California; U.S.A
+GPC,Genuine Parts Co,NYSE,Consumer Cyclical,Specialty Retail,5 - Large,5 - Large,Georgia; U.S.A
+GPN,Global Payments Inc,NYSE,Industrials,Specialty Business Services,5 - Large,4 - Mid,Georgia; U.S.A
+GPS,Gap Inc,NYSE,Consumer Cyclical,Apparel Retail,5 - Large,5 - Large,California; U.S.A
+GRMN,Garmin Ltd,NASDAQ,Technology,Scientific & Technical Instruments,5 - Large,4 - Mid,Switzerland
+GS,Goldman Sachs Group Inc,NYSE,Financial Services,Capital Markets,5 - Large,5 - Large,New York; U.S.A
+GWW,Ww Grainger Inc,NYSE,Industrials,Industrial Distribution,5 - Large,5 - Large,Illinois; U.S.A
+HAL,Halliburton Co,NYSE,Energy,Oil & Gas Equipment & Services,5 - Large,5 - Large,Texas; U.S.A
+HAS,Hasbro Inc,NASDAQ,Consumer Cyclical,Leisure,5 - Large,4 - Mid,Rhode Island; U.S.A
+HBAN,Huntington Bancshares Inc,NASDAQ,Financial Services,Banks - Regional,5 - Large,4 - Mid,Ohio; U.S.A
+HBI,Hanesbrands Inc,NYSE,Consumer Cyclical,Apparel Manufacturing,5 - Large,4 - Mid,North Carolina; U.S.A
+HCA,HCA Healthcare Inc,NYSE,Healthcare,Medical Care Facilities,5 - Large,5 - Large,Tennessee; U.S.A
+HD,Home Depot Inc,NYSE,Consumer Cyclical,Home Improvement Retail,6 - Mega,5 - Large,Georgia; U.S.A
+HES,Hess Corp,NYSE,Energy,Oil & Gas E&P,5 - Large,5 - Large,New York; U.S.A
+HFC,HollyFrontier Corp,NYSE,Energy,Oil & Gas Refining & Marketing,5 - Large,5 - Large,Texas; U.S.A
+HIG,Hartford Financial Services Group Inc,NYSE,Financial Services,Insurance - Diversified,5 - Large,5 - Large,Connecticut; U.S.A
+HII,Huntington Ingalls Industries Inc,NYSE,Industrials,Aerospace & Defense,5 - Large,4 - Mid,Virginia; U.S.A
+HLT,Hilton Worldwide Holdings Inc,NYSE,Consumer Cyclical,Lodging,5 - Large,5 - Large,Virginia; U.S.A
+HOLX,Hologic Inc,NASDAQ,Healthcare,Medical Instruments & Supplies,5 - Large,4 - Mid,Massachusetts; U.S.A
+HON,Honeywell International Inc,NYSE,Industrials,Specialty Industrial Machinery,5 - Large,5 - Large,North Carolina; U.S.A
+HPE,Hewlett Packard Enterprise Co,NYSE,Technology,Communication Equipment,5 - Large,5 - Large,California; U.S.A
+HPQ,Hp Inc,NYSE,Technology,Computer Hardware,5 - Large,5 - Large,California; U.S.A
+HRL,Hormel Foods Corp,NYSE,Consumer Defensive,Packaged Foods,5 - Large,4 - Mid,Minnesota; U.S.A
+HSIC,Henry Schein Inc,NASDAQ,Healthcare,Medical Distribution,5 - Large,5 - Large,New York; U.S.A
+HST,Host Hotels & Resorts Inc,NYSE,Real Estate,REIT - Hotel & Motel,5 - Large,4 - Mid,Maryland; U.S.A
+HSY,Hershey Co,NYSE,Consumer Defensive,Confectioners,5 - Large,4 - Mid,Pennsylvania; U.S.A
+HUM,Humana Inc,NYSE,Healthcare,Healthcare Plans,5 - Large,5 - Large,Kentucky; U.S.A
+HWM,Howmet Aerospace Inc,NYSE,Industrials,Specialty Industrial Machinery,5 - Large,5 - Large,Pennsylvania; U.S.A
+IBM,International Business Machines Corp,NYSE,Technology,Information Technology Services,6 - Mega,5 - Large,New York; U.S.A
+ICE,Intercontinental Exchange Inc,NYSE,Financial Services,Financial Data & Stock Exchanges,5 - Large,4 - Mid,Georgia; U.S.A
+IDXX,Idexx Laboratories Inc,NASDAQ,Healthcare,Diagnostics & Research,5 - Large,4 - Mid,Maine; U.S.A
+IEX,Idex Corp,NYSE,Industrials,Specialty Industrial Machinery,5 - Large,4 - Mid,Illinois; U.S.A
+IFF,International Flavors & Fragrances Inc,NYSE,Basic Materials,Specialty Chemicals,5 - Large,4 - Mid,New York; U.S.A
+ILMN,Illumina Inc,NASDAQ,Healthcare,Diagnostics & Research,5 - Large,4 - Mid,California; U.S.A
+INCY,Incyte Corp,NASDAQ,Healthcare,Biotechnology,5 - Large,4 - Mid,Delaware; U.S.A
+INFO,IHS Markit Ltd,NYSE,Industrials,Consulting Services,5 - Large,4 - Mid,United Kingdom
+INTC,Intel Corp,NASDAQ,Technology,Semiconductors,6 - Mega,5 - Large,California; U.S.A
+INTU,Intuit Inc,NASDAQ,Technology,Software - Application,5 - Large,4 - Mid,California; U.S.A
+IP,International Paper Co,NYSE,Consumer Cyclical,Packaging & Containers,5 - Large,5 - Large,Tennessee; U.S.A
+IPG,Interpublic Group Of Companies Inc,NYSE,Consumer Cyclical,Advertising Agencies,5 - Large,5 - Large,New York; U.S.A
+IPGP,Ipg Photonics Corp,NASDAQ,Technology,Semiconductor Equipment & Materials,5 - Large,3 - Small,Massachusetts; U.S.A
+IQV,Iqvia Holdings Inc,NYSE,Healthcare,Diagnostics & Research,5 - Large,5 - Large,North Carolina; U.S.A
+IR,Ingersoll Rand Inc,NYSE,Industrials,Specialty Industrial Machinery,5 - Large,4 - Mid,North Carolina; U.S.A
+IRM,Iron Mountain Inc,NYSE,Real Estate,REIT - Specialty,5 - Large,4 - Mid,Massachusetts; U.S.A
+ISRG,Intuitive Surgical Inc,NASDAQ,Healthcare,Medical Instruments & Supplies,5 - Large,4 - Mid,California; U.S.A
+IT,Gartner Inc,NYSE,Technology,Information Technology Services,5 - Large,4 - Mid,Connecticut; U.S.A
+ITW,Illinois Tool Works Inc,NYSE,Industrials,Specialty Industrial Machinery,5 - Large,5 - Large,Illinois; U.S.A
+IVZ,Invesco Ltd,NYSE,Financial Services,Asset Management,5 - Large,4 - Mid,Georgia; U.S.A
+J,Jacobs Engineering Group Inc,NYSE,Industrials,Engineering & Construction,5 - Large,5 - Large,Texas; U.S.A
+JBHT,Hunt J B Transport Services Inc,NASDAQ,Industrials,Integrated Freight & Logistics,5 - Large,4 - Mid,Arkansas; U.S.A
+JCI,Johnson Controls International plc,NYSE,Industrials,Engineering & Construction,5 - Large,5 - Large,Ireland
+JKHY,Henry Jack & Associates Inc,NASDAQ,Technology,Information Technology Services,5 - Large,3 - Small,Missouri; U.S.A
+JNJ,Johnson & Johnson,NYSE,Healthcare,Drug Manufacturers - General,6 - Mega,5 - Large,New Jersey; U.S.A
+JNPR,Juniper Networks Inc,NYSE,Technology,Communication Equipment,5 - Large,4 - Mid,California; U.S.A
+JPM,Jpmorgan Chase & Co,NYSE,Financial Services,Banks - Diversified,6 - Mega,5 - Large,New York; U.S.A
+K,Kellogg Co,NYSE,Consumer Defensive,Packaged Foods,5 - Large,5 - Large,Michigan; U.S.A
+KEY,Keycorp,NYSE,Financial Services,Banks - Regional,5 - Large,4 - Mid,Ohio; U.S.A
+KEYS,Keysight Technologies Inc,NYSE,Technology,Scientific & Technical Instruments,5 - Large,4 - Mid,California; U.S.A
+KHC,Kraft Heinz Co,NASDAQ,Consumer Defensive,Packaged Foods,5 - Large,5 - Large,Pennsylvania; U.S.A
+KIM,Kimco Realty Corp,NYSE,Real Estate,REIT - Retail,5 - Large,3 - Small,New York; U.S.A
+KLAC,Kla Corp,NASDAQ,Technology,Semiconductor Equipment & Materials,5 - Large,4 - Mid,California; U.S.A
+KMB,Kimberly Clark Corp,NYSE,Consumer Defensive,Household & Personal Products,5 - Large,5 - Large,Texas; U.S.A
+KMI,Kinder Morgan Inc,NYSE,Energy,Oil & Gas Midstream,5 - Large,5 - Large,Texas; U.S.A
+KMX,Carmax Inc,NYSE,Consumer Cyclical,Auto & Truck Dealerships,5 - Large,5 - Large,Virginia; U.S.A
+KO,Coca Cola Co,NYSE,Consumer Defensive,Beverages - Non-Alcoholic,6 - Mega,5 - Large,Georgia; U.S.A
+KR,Kroger Co,NYSE,Consumer Defensive,Grocery Stores,5 - Large,5 - Large,Ohio; U.S.A
+KSU,Kansas City Southern,NYSE,Industrials,Railroads,5 - Large,4 - Mid,Missouri; U.S.A
+L,Loews Corp,NYSE,Financial Services,Insurance - Property & Casualty,5 - Large,5 - Large,New York; U.S.A
+LB,L Brands Inc,NYSE,Consumer Cyclical,Apparel Retail,5 - Large,5 - Large,Ohio; U.S.A
+LDOS,Leidos Holdings Inc,NYSE,Technology,Information Technology Services,5 - Large,5 - Large,Virginia; U.S.A
+LEG,Leggett & Platt Inc,NYSE,Consumer Cyclical,Furnishings Fixtures & Appliances,4 - Mid,4 - Mid,Missouri; U.S.A
+LEN,Lennar Corp,NYSE,Consumer Cyclical,Residential Construction,5 - Large,5 - Large,Florida; U.S.A
+LH,Laboratory Corp Of America Holdings,NYSE,Healthcare,Diagnostics & Research,5 - Large,5 - Large,North Carolina; U.S.A
+LHX,L3Harris Technologies Inc,NYSE,Industrials,Aerospace & Defense,5 - Large,5 - Large,Florida; U.S.A
+LIN,Linde Plc,NYSE,Basic Materials,Specialty Chemicals,5 - Large,5 - Large,United Kingdom
+LKQ,Lkq Corp,NASDAQ,Consumer Cyclical,Auto Parts,5 - Large,5 - Large,Illinois; U.S.A
+LLY,ELI LILLY & Co,NYSE,Healthcare,Drug Manufacturers - General,5 - Large,5 - Large,Indiana; U.S.A
+LMT,Lockheed Martin Corp,NYSE,Industrials,Aerospace & Defense,5 - Large,5 - Large,Maryland; U.S.A
+LNC,Lincoln National Corp,NYSE,Financial Services,Insurance - Life,5 - Large,5 - Large,Pennsylvania; U.S.A
+LNT,Alliant Energy Corp,NASDAQ,Utilities,Utilities - Regulated Electric,5 - Large,4 - Mid,Wisconsin; U.S.A
+LOW,Lowes Companies Inc,NYSE,Consumer Cyclical,Home Improvement Retail,5 - Large,5 - Large,North Carolina; U.S.A
+LRCX,Lam Research Corp,NASDAQ,Technology,Semiconductor Equipment & Materials,5 - Large,5 - Large,California; U.S.A
+LUMN,Centurylink Inc,NYSE,Communication Services,Telecom Services,5 - Large,5 - Large,Louisiana; U.S.A
+LUV,Southwest Airlines Co,NYSE,Industrials,Airlines,5 - Large,5 - Large,Texas; U.S.A
+LVS,Las Vegas Sands Corp,NYSE,Consumer Cyclical,Resorts & Casinos,5 - Large,5 - Large,Nevada; U.S.A
+LW,Lamb Weston Holdings Inc,NYSE,Consumer Defensive,Packaged Foods,5 - Large,4 - Mid,Idaho; U.S.A
+LYB,LyondellBasell Industries NV,NYSE,Basic Materials,Specialty Chemicals,5 - Large,5 - Large,Texas; U.S.A
+LYV,Live Nation Entertainment Inc,NYSE,Consumer Cyclical,Entertainment,5 - Large,5 - Large,California; U.S.A
+MA,Mastercard Inc,NYSE,Financial Services,Credit Services,6 - Mega,5 - Large,New York; U.S.A
+MAA,Mid America Apartment Communities Inc,NYSE,Real Estate,REIT - Residential,5 - Large,3 - Small,Tennessee; U.S.A
+MAR,Marriott International Inc,NASDAQ,Consumer Cyclical,Lodging,5 - Large,5 - Large,Maryland; U.S.A
+MAS,Masco Corp,NYSE,Basic Materials,Building Products & Equipment,5 - Large,5 - Large,Michigan; U.S.A
+MCD,Mcdonalds Corp,NYSE,Consumer Cyclical,Restaurants,5 - Large,5 - Large,Illinois; U.S.A
+MCHP,Microchip Technology Inc,NASDAQ,Technology,Semiconductors,5 - Large,4 - Mid,Arizona; U.S.A
+MCK,Mckesson Corp,NYSE,Healthcare,Medical Distribution,5 - Large,6 - Mega,Texas; U.S.A
+MCO,Moodys Corp,NYSE,Financial Services,Financial Data & Stock Exchanges,5 - Large,4 - Mid,New York; U.S.A
+MDLZ,Mondelez International Inc,NASDAQ,Consumer Defensive,Confectioners,5 - Large,5 - Large,Illinois; U.S.A
+MDT,Medtronic plc,NYSE,Healthcare,Medical Devices,5 - Large,5 - Large,Ireland
+MET,Metlife Inc,NYSE,Financial Services,Insurance - Life,5 - Large,5 - Large,New York; U.S.A
+MGM,MGM Resorts International,NYSE,Consumer Cyclical,Resorts & Casinos,5 - Large,5 - Large,Nevada; U.S.A
+MHK,Mohawk Industries Inc,NYSE,Consumer Cyclical,Furnishings Fixtures & Appliances,5 - Large,5 - Large,Georgia; U.S.A
+MKC,Mccormick & Co Inc,NYSE,Consumer Defensive,Packaged Foods,5 - Large,4 - Mid,Maryland; U.S.A
+MKTX,Marketaxess Holdings Inc,NASDAQ,Financial Services,Capital Markets,5 - Large,3 - Small,New York; U.S.A
+MLM,Martin Marietta Materials Inc,NYSE,Basic Materials,Building Materials,5 - Large,4 - Mid,North Carolina; U.S.A
+MMC,Marsh & Mclennan Companies Inc,NYSE,Financial Services,Insurance Brokers,5 - Large,5 - Large,New York; U.S.A
+MMM,3M Co,NYSE,Industrials,Specialty Industrial Machinery,5 - Large,5 - Large,Minnesota; U.S.A
+MNST,Monster Beverage Corp,NASDAQ,Consumer Defensive,Beverages - Non-Alcoholic,5 - Large,4 - Mid,California; U.S.A
+MO,Altria Group Inc,NYSE,Consumer Defensive,Tobacco,5 - Large,5 - Large,Virginia; U.S.A
+MOS,Mosaic Co,NYSE,Basic Materials,Agricultural Inputs,5 - Large,5 - Large,Florida; U.S.A
+MPC,Marathon Petroleum Corp,NYSE,Energy,Oil & Gas Refining & Marketing,5 - Large,5 - Large,Ohio; U.S.A
+MRK,Merck & Co Inc,NYSE,Healthcare,Drug Manufacturers - General,6 - Mega,5 - Large,New Jersey; U.S.A
+MRO,Marathon Oil Corp,NYSE,Energy,Oil & Gas E&P,5 - Large,5 - Large,Texas; U.S.A
+MS,Morgan Stanley,NYSE,Financial Services,Capital Markets,5 - Large,5 - Large,New York; U.S.A
+MSCI,MSCI Inc,NYSE,Financial Services,Financial Data & Stock Exchanges,5 - Large,3 - Small,New York; U.S.A
+MSFT,Microsoft Corp,NASDAQ,Technology,Software - Infrastructure,6 - Mega,5 - Large,Washington; U.S.A
+MSI,Motorola Solutions Inc,NYSE,Technology,Communication Equipment,5 - Large,5 - Large,Illinois; U.S.A
+MTB,M&T Bank Corp,NYSE,Financial Services,Banks - Regional,5 - Large,4 - Mid,New York; U.S.A
+MTD,Mettler Toledo International Inc,NYSE,Healthcare,Diagnostics & Research,5 - Large,4 - Mid,Ohio; U.S.A
+MU,Micron Technology Inc,NASDAQ,Technology,Semiconductors,5 - Large,5 - Large,Idaho; U.S.A
+MXIM,Maxim Integrated Products Inc,NASDAQ,Technology,Semiconductors,5 - Large,4 - Mid,California; U.S.A
+NCLH,Norwegian Cruise Line Holdings Ltd,NYSE,Industrials,Travel Services,5 - Large,4 - Mid,Florida; U.S.A
+NDAQ,Nasdaq Inc,NASDAQ,Financial Services,Financial Data & Stock Exchanges,5 - Large,4 - Mid,New York; U.S.A
+NEE,Nextera Energy Inc,NYSE,Utilities,Utilities - Regulated Electric,5 - Large,5 - Large,Florida; U.S.A
+NEM,NEWMONT Corp,NYSE,Basic Materials,Gold,5 - Large,5 - Large,Colorado; U.S.A
+NFLX,Netflix Inc,NASDAQ,Consumer Cyclical,Entertainment,6 - Mega,5 - Large,California; U.S.A
+NI,Nisource Inc,NYSE,Utilities,Utilities - Regulated Gas,5 - Large,5 - Large,Indiana; U.S.A
+NKE,NIKE Inc,NYSE,Consumer Cyclical,Footwear & Accessories,6 - Mega,5 - Large,Oregon; U.S.A
+NLOK,NortonLifeLock Inc,NASDAQ,Technology,Software - Infrastructure,5 - Large,4 - Mid,Arizona; U.S.A
+NLSN,Nielsen Holdings plc,NYSE,Industrials,Consulting Services,5 - Large,4 - Mid,New York; U.S.A
+NOC,Northrop Grumman Corp,NYSE,Industrials,Aerospace & Defense,5 - Large,5 - Large,Virginia; U.S.A
+NOV,National Oilwell Varco Inc,NYSE,Energy,Oil & Gas Equipment & Services,5 - Large,5 - Large,Texas; U.S.A
+NOW,ServiceNow Inc,NYSE,Technology,Software - Application,5 - Large,4 - Mid,California; U.S.A
+NRG,Nrg Energy Inc,NYSE,Utilities,Utilities - Independent Power Producers,5 - Large,5 - Large,New Jersey; U.S.A
+NSC,Norfolk Southern Corp,NYSE,Industrials,Railroads,5 - Large,5 - Large,Virginia; U.S.A
+NTAP,NetApp Inc,NASDAQ,Technology,Computer Hardware,5 - Large,4 - Mid,California; U.S.A
+NTRS,Northern Trust Corp,NASDAQ,Financial Services,Asset Management,5 - Large,4 - Mid,Illinois; U.S.A
+NUE,Nucor Corp,NYSE,Basic Materials,Steel,5 - Large,5 - Large,North Carolina; U.S.A
+NVDA,Nvidia Corp,NASDAQ,Technology,Semiconductors,6 - Mega,5 - Large,California; U.S.A
+NVR,Nvr Inc,NYSE,Consumer Cyclical,Residential Construction,5 - Large,4 - Mid,Virginia; U.S.A
+NWL,Newell Brands Inc,NASDAQ,Consumer Defensive,Household & Personal Products,5 - Large,5 - Large,Georgia U.S.A.
+NWSA,News Corp,NASDAQ,Consumer Cyclical,Broadcasting,5 - Large,5 - Large,New York; U.S.A
+O,Realty Income Corp,NYSE,Real Estate,REIT - Retail,5 - Large,3 - Small,California; U.S.A
+ODFL,Old Dominion Freight Line Inc,NASDAQ,Industrials,Trucking,5 - Large,4 - Mid,North Carolina; U.S.A
+OKE,Oneok Inc,NYSE,Energy,Oil & Gas Midstream,5 - Large,5 - Large,Oklahoma; U.S.A
+OMC,Omnicom Group Inc,NYSE,Consumer Cyclical,Advertising Agencies,5 - Large,5 - Large,New York; U.S.A
+ORCL,Oracle Corp,NYSE,Technology,Software - Infrastructure,6 - Mega,5 - Large,California; U.S.A
+ORLY,O Reilly Automotive Inc,NASDAQ,Consumer Cyclical,Specialty Retail,5 - Large,5 - Large,Missouri; U.S.A
+OTIS,Otis Worldwide Corp,NYSE,Industrials,Specialty Industrial Machinery,5 - Large,5 - Large,Connecticut; U.S.A
+OXY,Occidental Petroleum Corp,NYSE,Energy,Oil & Gas E&P,5 - Large,5 - Large,Texas; U.S.A
+PAYC,Paycom Software Inc,NYSE,Technology,Software - Application,5 - Large,3 - Small,Oklahoma; U.S.A
+PAYX,Paychex Inc,NASDAQ,Industrials,Staffing & Employment Services,5 - Large,4 - Mid,New York; U.S.A
+PBCT,People's United Financial Inc,NASDAQ,Financial Services,Banks - Regional,4 - Mid,3 - Small,Connecticut; U.S.A
+PCAR,Paccar Inc,NASDAQ,Industrials,Farm & Heavy Construction Machinery,5 - Large,5 - Large,Washington; U.S.A
+PEAK,Healthpeak Properties Inc,NYSE,Real Estate,REIT - Healthcare Facilities,5 - Large,4 - Mid,California; U.S.A
+PEG,Public Service Enterprise Group Inc,NYSE,Utilities,Utilities - Diversified,5 - Large,5 - Large,New Jersey; U.S.A
+PEP,Pepsico Inc,NASDAQ,Consumer Defensive,Beverages - Non-Alcoholic,6 - Mega,5 - Large,New York; U.S.A
+PFE,Pfizer Inc,NYSE,Healthcare,Drug Manufacturers - General,6 - Mega,5 - Large,New York; U.S.A
+PFG,Principal Financial Group Inc,NASDAQ,Financial Services,Insurance - Diversified,5 - Large,5 - Large,Iowa; U.S.A
+PG,PROCTER & GAMBLE Co,NYSE,Consumer Defensive,Household & Personal Products,6 - Mega,5 - Large,Ohio; U.S.A
+PGR,Progressive Corp,NYSE,Financial Services,Insurance - Property & Casualty,5 - Large,5 - Large,Ohio; U.S.A
+PH,Parker Hannifin Corp,NYSE,Industrials,Specialty Industrial Machinery,5 - Large,5 - Large,Ohio; U.S.A
+PHM,Pultegroup Inc,NYSE,Consumer Cyclical,Residential Construction,5 - Large,5 - Large,Georgia U.S.A.
+PKG,Packaging Corp Of America,NYSE,Consumer Cyclical,Packaging & Containers,5 - Large,4 - Mid,Illinois; U.S.A
+PKI,Perkinelmer Inc,NYSE,Healthcare,Diagnostics & Research,5 - Large,4 - Mid,Massachusetts; U.S.A
+PLD,Prologis Inc,NYSE,Real Estate,REIT - Industrial,5 - Large,4 - Mid,California; U.S.A
+PM,Philip Morris International Inc,NYSE,Consumer Defensive,Tobacco,5 - Large,5 - Large,New York; U.S.A
+PNC,Pnc Financial Services Group Inc,NYSE,Financial Services,Banks - Regional,5 - Large,5 - Large,Pennsylvania; U.S.A
+PNR,PENTAIR plc,NYSE,Industrials,Specialty Industrial Machinery,5 - Large,4 - Mid,United Kingdom
+PNW,Pinnacle West Capital Corp,NYSE,Utilities,Utilities - Regulated Electric,5 - Large,4 - Mid,Arizona; U.S.A
+PPG,Ppg Industries Inc,NYSE,Basic Materials,Specialty Chemicals,5 - Large,5 - Large,Pennsylvania; U.S.A
+PPL,PPL Corp,NYSE,Utilities,Utilities - Regulated Electric,5 - Large,5 - Large,Pennsylvania; U.S.A
+PRGO,PERRIGO Co plc,NYSE,Healthcare,Drug Manufacturers - Specialty & Generic,5 - Large,4 - Mid,Ireland
+PRU,Prudential Financial Inc,NYSE,Financial Services,Insurance - Life,5 - Large,5 - Large,New Jersey; U.S.A
+PSA,Public Storage,NYSE,Real Estate,REIT - Industrial,5 - Large,4 - Mid,California; U.S.A
+PSX,Phillips 66,NYSE,Energy,Oil & Gas Refining & Marketing,5 - Large,6 - Mega,Texas; U.S.A
+PVH,Pvh Corp,NYSE,Consumer Cyclical,Apparel Manufacturing,5 - Large,4 - Mid,New York; U.S.A
+PWR,Quanta Services Inc,NYSE,Industrials,Engineering & Construction,4 - Mid,5 - Large,Texas; U.S.A
+PXD,Pioneer Natural Resources Co,NYSE,Energy,Oil & Gas E&P,5 - Large,4 - Mid,Texas; U.S.A
+PYPL,PayPal Holdings Inc,NASDAQ,Financial Services,Credit Services,6 - Mega,5 - Large,California; U.S.A
+QCOM,Qualcomm Inc,NASDAQ,Technology,Semiconductors,5 - Large,5 - Large,California; U.S.A
+QRVO,Qorvo Inc,NASDAQ,Technology,Semiconductors,5 - Large,4 - Mid,North Carolina; U.S.A
+RCL,Royal Caribbean Cruises Ltd,NYSE,Industrials,Travel Services,5 - Large,5 - Large,Florida; U.S.A
+RE,Everest Re Group Ltd,NYSE,Financial Services,Insurance - Reinsurance,5 - Large,4 - Mid,Bermuda
+REG,Regency Centers Corp,NASDAQ,Real Estate,REIT - Retail,5 - Large,3 - Small,Florida; U.S.A
+REGN,Regeneron Pharmaceuticals Inc,NASDAQ,Healthcare,Biotechnology,5 - Large,4 - Mid,New York; U.S.A
+RF,Regions Financial Corp,NYSE,Financial Services,Banks - Regional,5 - Large,4 - Mid,Alabama; U.S.A
+RHI,Robert Half International Inc,NYSE,Industrials,Staffing & Employment Services,4 - Mid,4 - Mid,California; U.S.A
+RJF,Raymond James Financial Inc,NYSE,Financial Services,Capital Markets,5 - Large,4 - Mid,Florida; U.S.A
+RL,Ralph Lauren Corp,NYSE,Consumer Cyclical,Apparel Manufacturing,5 - Large,4 - Mid,New York; U.S.A
+RMD,Resmed Inc,NYSE,Healthcare,Medical Instruments & Supplies,5 - Large,4 - Mid,California; U.S.A
+ROK,Rockwell Automation Inc,NYSE,Industrials,Specialty Industrial Machinery,5 - Large,4 - Mid,Wisconsin; U.S.A
+ROL,Rollins Inc,NYSE,Consumer Cyclical,Personal Services,5 - Large,4 - Mid,Georgia; U.S.A
+ROP,Roper Technologies Inc,NYSE,Industrials,Specialty Industrial Machinery,5 - Large,4 - Mid,Florida; U.S.A
+ROST,Ross Stores Inc,NASDAQ,Consumer Cyclical,Apparel Retail,5 - Large,5 - Large,California; U.S.A
+RSG,Republic Services Inc,NYSE,Industrials,Waste Management,5 - Large,5 - Large,Arizona; U.S.A
+RTX,Raytheon Technologies Corp,NYSE,Industrials,Aerospace & Defense,5 - Large,5 - Large,Massachusetts; U.S.A
+SBAC,Sba Communications Corp,NASDAQ,Real Estate,REIT - Specialty,5 - Large,4 - Mid,Florida; U.S.A
+SBUX,Starbucks Corp,NASDAQ,Consumer Cyclical,Restaurants,5 - Large,5 - Large,Washington; U.S.A
+SCHW,Schwab Charles Corp,NYSE,Financial Services,Capital Markets,5 - Large,5 - Large,California; U.S.A
+SEE,Sealed Air Corp,NYSE,Consumer Cyclical,Packaging & Containers,5 - Large,4 - Mid,North Carolina; U.S.A
+SHW,Sherwin Williams Co,NYSE,Basic Materials,Specialty Chemicals,5 - Large,5 - Large,Ohio; U.S.A
+SIVB,Svb Financial Group,NASDAQ,Financial Services,Banks - Regional,5 - Large,4 - Mid,California; U.S.A
+SJM,J M SMUCKER Co,NYSE,Consumer Defensive,Packaged Foods,5 - Large,4 - Mid,Ohio; U.S.A
+SLB,Schlumberger Limited,NYSE,Energy,Oil & Gas Equipment & Services,5 - Large,5 - Large,Texas; U.S.A
+SLG,Sl Green Realty Corp,NYSE,Real Estate,REIT - Office,5 - Large,3 - Small,New York; U.S.A
+SNA,Snap-on Inc,NYSE,Industrials,Tools & Accessories,5 - Large,4 - Mid,Wisconsin; U.S.A
+SNPS,Synopsys Inc,NASDAQ,Technology,Software - Infrastructure,5 - Large,4 - Mid,California; U.S.A
+SO,Southern Co,NYSE,Utilities,Utilities - Regulated Electric,5 - Large,5 - Large,Georgia; U.S.A
+SPG,Simon Property Group Inc,NYSE,Real Estate,REIT - Retail,5 - Large,4 - Mid,Indiana; U.S.A
+SPGI,S&P Global Inc,NYSE,Financial Services,Financial Data & Stock Exchanges,5 - Large,4 - Mid,New York; U.S.A
+SRE,Sempra Energy,NYSE,Utilities,Utilities - Diversified,5 - Large,5 - Large,California; U.S.A
+STE,STERIS plc,NYSE,Healthcare,Medical Instruments & Supplies,5 - Large,4 - Mid,Ireland
+STT,State Street Corp,NYSE,Financial Services,Asset Management,5 - Large,5 - Large,Massachusetts; U.S.A
+STX,Seagate Technology plc,NASDAQ,Technology,Computer Hardware,5 - Large,5 - Large,Ireland
+STZ,Constellation Brands Inc,NYSE,Consumer Defensive,Beverages - Wineries & Distilleries,5 - Large,4 - Mid,New York; U.S.A
+SWK,Stanley Black & Decker Inc,NYSE,Industrials,Tools & Accessories,5 - Large,5 - Large,Connecticut; U.S.A
+SWKS,Skyworks Solutions Inc,NASDAQ,Technology,Semiconductors,5 - Large,4 - Mid,California; U.S.A
+SYF,Synchrony Financial,NYSE,Financial Services,Credit Services,5 - Large,4 - Mid,Connecticut; U.S.A
+SYK,Stryker Corp,NYSE,Healthcare,Medical Devices,5 - Large,5 - Large,Michigan; U.S.A
+SYY,Sysco Corp,NYSE,Consumer Defensive,Food Distribution,5 - Large,5 - Large,Texas; U.S.A
+T,At&T Inc,NYSE,Communication Services,Telecom Services,6 - Mega,5 - Large,Texas; U.S.A
+TAP,Molson Coors Beverage Co,NYSE,Consumer Defensive,Beverages - Brewers,5 - Large,5 - Large,Colorado; U.S.A
+TDG,TransDigm Group INC,NYSE,Industrials,Aerospace & Defense,5 - Large,4 - Mid,Ohio; U.S.A
+TDY,Teledyne Technologies Inc,NYSE,Technology,Scientific & Technical Instruments,5 - Large,4 - Mid,California; U.S.A
+TEL,TE Connectivity Ltd,NYSE,Technology,Electronic Components,5 - Large,5 - Large,Switzerland
+TER,Teradyne Inc,NASDAQ,Technology,Semiconductor Equipment & Materials,5 - Large,4 - Mid,Massachusetts; U.S.A
+TFC,Truist Financial Corp,NYSE,Financial Services,Banks - Regional,5 - Large,5 - Large,North Carolina; U.S.A
+TFX,Teleflex Inc,NYSE,Healthcare,Medical Instruments & Supplies,5 - Large,4 - Mid,Pennsylvania; U.S.A
+TGT,Target Corp,NYSE,Consumer Defensive,Discount Stores,5 - Large,5 - Large,Minnesota; U.S.A
+TIF,Tiffany & Co,NYSE,Consumer Cyclical,Luxury Goods,5 - Large,4 - Mid,New York; U.S.A
+TJX,Tjx Companies Inc,NYSE,Consumer Cyclical,Apparel Retail,5 - Large,5 - Large,Massachusetts; U.S.A
+TMO,Thermo Fisher Scientific Inc,NYSE,Healthcare,Diagnostics & Research,5 - Large,5 - Large,Massachusetts; U.S.A
+TMUS,T-Mobile US Inc,NASDAQ,Communication Services,Telecom Services,5 - Large,5 - Large,Washington; U.S.A
+TPR,Tapestry Inc,NYSE,Consumer Cyclical,Luxury Goods,5 - Large,4 - Mid,New York; U.S.A
+TROW,Price T Rowe Group Inc,NASDAQ,Financial Services,Asset Management,5 - Large,4 - Mid,Maryland; U.S.A
+TRV,Travelers Companies Inc,NYSE,Financial Services,Insurance - Property & Casualty,5 - Large,5 - Large,Minnesota; U.S.A
+TSCO,Tractor Supply Co,NASDAQ,Consumer Cyclical,Specialty Retail,5 - Large,4 - Mid,Tennessee; U.S.A
+TSN,Tyson Foods Inc,NYSE,Consumer Defensive,Farm Products,5 - Large,5 - Large,Arkansas; U.S.A
+TT,Trane Technologies plc,NYSE,Industrials,Specialty Industrial Machinery,5 - Large,5 - Large,Ireland
+TTWO,Take Two Interactive Software Inc,NASDAQ,Technology,Electronic Gaming & Multimedia,5 - Large,4 - Mid,New York; U.S.A
+TWTR,Twitter Inc,NYSE,Technology,Internet Content & Information,5 - Large,4 - Mid,California; U.S.A
+TXN,Texas Instruments Inc,NASDAQ,Technology,Semiconductors,5 - Large,5 - Large,Texas; U.S.A
+TXT,Textron Inc,NYSE,Industrials,Aerospace & Defense,5 - Large,5 - Large,Rhode Island; U.S.A
+TYL,Tyler Technologies Inc,NYSE,Technology,Software - Application,5 - Large,3 - Small,Texas; U.S.A
+UAA,Under Armour Inc,NYSE,Consumer Cyclical,Apparel Manufacturing,5 - Large,4 - Mid,Maryland; U.S.A
+UAL,United Airlines Holdings Inc,NASDAQ,Industrials,Airlines,5 - Large,5 - Large,Illinois; U.S.A
+UDR,UDR Inc,NYSE,Real Estate,REIT - Residential,5 - Large,3 - Small,Colorado; U.S.A
+UHS,Universal Health Services Inc,NYSE,Healthcare,Medical Care Facilities,5 - Large,5 - Large,Pennsylvania; U.S.A
+ULTA,Ulta Beauty Inc,NASDAQ,Consumer Cyclical,Specialty Retail,5 - Large,4 - Mid,Illinois; U.S.A
+UNH,Unitedhealth Group Inc,NYSE,Healthcare,Healthcare Plans,6 - Mega,6 - Mega,Minnesota; U.S.A
+UNM,Unum Group,NYSE,Financial Services,Insurance - Life,5 - Large,5 - Large,Tennessee; U.S.A
+UNP,Union Pacific Corp,NYSE,Industrials,Railroads,5 - Large,5 - Large,Nebraska; U.S.A
+UPS,United Parcel Service Inc,NYSE,Industrials,Integrated Freight & Logistics,5 - Large,5 - Large,Georgia; U.S.A
+URI,United Rentals Inc,NYSE,Industrials,Rental & Leasing Services,5 - Large,4 - Mid,Connecticut; U.S.A
+USB,Us Bancorp,NYSE,Financial Services,Banks - Regional,5 - Large,5 - Large,Minnesota; U.S.A
+V,Visa Inc,NYSE,Financial Services,Credit Services,6 - Mega,5 - Large,California; U.S.A
+VAR,Varian Medical Systems Inc,NYSE,Healthcare,Medical Instruments & Supplies,5 - Large,4 - Mid,California; U.S.A
+VFC,V F Corp,NYSE,Consumer Cyclical,Apparel Manufacturing,5 - Large,5 - Large,Colorado; U.S.A
+VIAC,ViacomCBS Inc,NASDAQ,Consumer Cyclical,Entertainment,5 - Large,5 - Large,New York; U.S.A
+VLO,Valero Energy Corp,NYSE,Energy,Oil & Gas Refining & Marketing,5 - Large,5 - Large,Texas; U.S.A
+VMC,Vulcan Materials CO,NYSE,Basic Materials,Building Materials,5 - Large,4 - Mid,Alabama; U.S.A
+VNO,Vornado Realty Trust,NYSE,Real Estate,REIT - Office,5 - Large,4 - Mid,New York; U.S.A
+VNT,Vontier Corp,NYSE,Industrials,Electrical Equipment & Parts,4 - Mid,4 - Mid,Washington; U.S.A
+VRSK,Verisk Analytics Inc,NASDAQ,Industrials,Consulting Services,5 - Large,4 - Mid,New Jersey; U.S.A
+VRSN,Verisign Inc,NASDAQ,Technology,Software - Infrastructure,5 - Large,3 - Small,Virginia; U.S.A
+VRTX,Vertex Pharmaceuticals Inc,NASDAQ,Healthcare,Biotechnology,5 - Large,4 - Mid,Massachusetts; U.S.A
+VTR,Ventas Inc,NYSE,Real Estate,REIT - Healthcare Facilities,5 - Large,4 - Mid,Illinois; U.S.A
+VZ,Verizon Communications Inc,NYSE,Communication Services,Telecom Services,6 - Mega,5 - Large,New York; U.S.A
+WAB,Westinghouse Air Brake Technologies Corp,NYSE,Industrials,Railroads,5 - Large,4 - Mid,Pennsylvania; U.S.A
+WAT,Waters Corp,NYSE,Healthcare,Diagnostics & Research,5 - Large,4 - Mid,Massachusetts; U.S.A
+WBA,Walgreens Boots Alliance Inc,NASDAQ,Consumer Defensive,Pharmaceutical Retailers,5 - Large,5 - Large,Illinois; U.S.A
+WDC,Western Digital Corp,NASDAQ,Technology,Computer Hardware,5 - Large,5 - Large,California; U.S.A
+WEC,Wec Energy Group Inc,NYSE,Utilities,Utilities - Regulated Electric,5 - Large,4 - Mid,Wisconsin; U.S.A
+WELL,Welltower Inc,NYSE,Real Estate,REIT - Healthcare Facilities,5 - Large,4 - Mid,Ohio; U.S.A
+WFC,Wells Fargo & Company,NYSE,Financial Services,Banks - Diversified,6 - Mega,5 - Large,California; U.S.A
+WHR,Whirlpool Corp,NYSE,Consumer Cyclical,Furnishings Fixtures & Appliances,5 - Large,5 - Large,Michigan; U.S.A
+WLTW,Willis Towers Watson Plc,NASDAQ,Financial Services,Insurance Brokers,5 - Large,4 - Mid,United Kingdom
+WM,Waste Management Inc,NYSE,Industrials,Waste Management,5 - Large,5 - Large,Texas; U.S.A
+WMB,Williams Companies Inc,NYSE,Energy,Oil & Gas Midstream,5 - Large,5 - Large,Oklahoma; U.S.A
+WMT,Walmart Inc,NYSE,Consumer Defensive,Discount Stores,6 - Mega,6 - Mega,Arkansas; U.S.A
+WRB,Berkley W R Corp,NYSE,Financial Services,Insurance - Property & Casualty,5 - Large,4 - Mid,Connecticut; U.S.A
+WRK,WestRock Co,NYSE,Consumer Cyclical,Packaging & Containers,5 - Large,5 - Large,Georgia; U.S.A
+WST,West Pharmaceutical Services Inc,NYSE,Healthcare,Medical Instruments & Supplies,5 - Large,4 - Mid,Pennsylvania; U.S.A
+WU,Western Union CO,NYSE,Financial Services,Credit Services,5 - Large,4 - Mid,Colorado; U.S.A
+WY,Weyerhaeuser Co,NYSE,Real Estate,REIT - Specialty,5 - Large,5 - Large,Washington; U.S.A
+WYNN,Wynn Resorts Ltd,NASDAQ,Consumer Cyclical,Resorts & Casinos,5 - Large,4 - Mid,Nevada; U.S.A
+XEL,Xcel Energy Inc,NASDAQ,Utilities,Utilities - Regulated Electric,5 - Large,5 - Large,Minnesota; U.S.A
+XLNX,Xilinx Inc,NASDAQ,Technology,Semiconductors,5 - Large,4 - Mid,California; U.S.A
+XOM,Exxon Mobil Corp,NYSE,Energy,Oil & Gas Integrated,6 - Mega,6 - Mega,Texas; U.S.A
+XRAY,DENTSPLY SIRONA Inc,NASDAQ,Healthcare,Medical Instruments & Supplies,5 - Large,4 - Mid,North Carolina; U.S.A
+XRX,Xerox Holdings Corp,NYSE,Technology,Information Technology Services,5 - Large,5 - Large,Connecticut; U.S.A
+XYL,Xylem Inc,NYSE,Industrials,Specialty Industrial Machinery,5 - Large,4 - Mid,New York; U.S.A
+YUM,Yum Brands Inc,NYSE,Consumer Cyclical,Restaurants,5 - Large,5 - Large,Kentucky; U.S.A
+ZBH,Zimmer Biomet Holdings Inc,NYSE,Healthcare,Medical Devices,5 - Large,4 - Mid,Indiana; U.S.A
+ZBRA,Zebra Technologies Corp,NASDAQ,Technology,Communication Equipment,5 - Large,4 - Mid,Illinois; U.S.A
+ZION,Zions Bancorporation National Association,NASDAQ,Financial Services,Banks - Regional,5 - Large,4 - Mid,Utah; U.S.A
+ZTS,Zoetis Inc,NYSE,Healthcare,Drug Manufacturers - Specialty & Generic,5 - Large,4 - Mid,New Jersey; U.S.A
+DISCK,Discovery Inc,NASDAQ,Consumer Cyclical,Entertainment,,,Maryland; U.S.A
+FOX,Fox Corp,NASDAQ,Consumer Cyclical,Broadcasting,,,New York; U.S.A
+FRC,First Republic Bank,NYSE,Financial Services,Banks - Regional,,,California; U.S.A
+GOOG,Alphabet Inc,NASDAQ,Technology,Internet Content & Information,,,California; U.S.A
+NWS,News Corp,NASDAQ,Consumer Cyclical,Broadcasting,,,New York; U.S.A
+UA,Under Armour Inc,NYSE,Consumer Cyclical,Apparel Manufacturing,,,Maryland; U.S.A
