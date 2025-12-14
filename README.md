@@ -60,10 +60,11 @@ This repository hosts the lecture material, notebooks, and homework for the Baru
 - This week covers deep learning applications in asset pricing, with lectures based on two influential papers:
   - **Part 1**: *The Virtue of Complexity in Return Prediction* (Kelly et al.)
   - **Part 2**: *Deep Learning in Asset Pricing* (Chen, Pelger & Zhu)
+  - **Part 3**: *Deep Learning Statistical Arbitrage* (Jorge Guijarro-Ordonez, Pelger & Zanotti)
 - Paper replication repositories: the instructor has produced dedicated repositories for replicating the key results from these papers:
   - [TheVirtueOfComplexity_PaperReplication](https://github.com/omroot/TheVirtueOfComplexity_PaperReplication)
   - [DeepLearningInAssetPricing_PaperReplication](https://github.com/omroot/DeepLearningInAssetPricing_PaperReplication)
-
+  - [DeepLearningStatisticalArbitrage_PaperReplication](https://github.com/omroot/DeepLearningStatisticalArbitrage_PaperReplication)
 ## Repository Layout
 - `homeworks/`: weekly assignments and starter code.
 - `lecture_slides/`: slide decks used in class.
